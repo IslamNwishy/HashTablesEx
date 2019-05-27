@@ -1,0 +1,952 @@
+No.,City Name,Latitude,Longitude,Country
+1,Catania,37o30'N,15o05'E, Italy
+2,Sobral,3o40'S,40o14'W, Brazil
+3,Brussels,50o51'N,4o21'E, Belgium
+4,Padang,0o57'S,100o21'E, Indonesia
+5,Venice,45o26'N,12o20'E, Italy
+6,Beirut,33o53'N,35o31'E, Lebanon
+7,Antananarivo,18o56'S,47o31'E, Madagascar
+8,Birkirkara,35o54'N,14o28'E, Malta
+9,Grise Fiord,76o25'N,82o54'W, Canada
+10,Winnipeg,49o54'N,97o08'W, Canada
+11,Chi?in?u,47o00'N,28o55'E, Moldova
+12,Kano,12o00'N,8o31'E, Nigeria
+13,Nice,43o42'N,7o16'E, France
+14,Alofi,19o03'S,169o55'W, New Zealand
+15,Muscat,23o37'N,58o36'E, Oman
+16,Mata-Utu,13o17'S,176o11'W, France
+17,Astana,51o10'N,71o26'E, Kazakhstan
+18,Trujillo,8o07'S,79o02'W, Peru
+19,Taipei,25o02'N,121o38'E, Republic of China (Taiwan)
+20,Damascus,33o31'N,36o18'E, Syria
+21,Dushanbe,38o32'N,68o47'E, Tajikistan
+22,Guangzhou,23o08'N,113o16'E, People's Republic of China
+23,Phra Nakhon Si Ayutthaya,14o21'N,100o34'E, Thailand
+24,Nakhon Ratchasima,14o59'N,102o06'E, Thailand
+25,Riyadh,24o38'N,46o43'E, Saudi Arabia
+26,Sukhumi,43o00'N,41o01'E, Georgia
+27,Hat Yai,7o01'N,100o28'E, Thailand
+28,San Fernando,10o17'N,61o28'W, Trinidad and Tobago
+29,Tbilisi,41o43'N,44o47'E, Georgia
+30,Calais,50o57'N,1o51'E, France
+31,Tallinn,59o26'N,24o45'E, Estonia
+32,Ipoh,4o36'N,101o04'E, Malaysia
+33,Saint-Pierre,46o47'N,56o11'W, France
+34,Kaliningrad,54o43'N,20o31'E, Russia
+35,Kigali,1o57'S,30o04'E, Rwanda
+36,Montreal,45o30'N,73o34'W, Canada
+37,Rabi Island,16o30'S,180o00'W, Fiji
+38,Bandung,6o55'S,107o37'E, Indonesia
+39,Kunming,25o04'N,102o41'E, People's Republic of China
+40,San Marino,43o56'N,12o27'E, San Marino
+41,Rotterdam,51o56'N,4o29'E, Netherlands
+42,Erbil,36o11'N,44o01'E, Iraq
+43,Gaza,31o31'N,34o27'E, Palestine
+44,Chaguanas,10o30'N,61o23'W, Trinidad and Tobago
+45,Gaziantep,37o04'N,37o23'E, Turkey
+46,Kandahar,31o37'N,65o43'E, Afghanistan
+47,Porto-Novo,6o30'N,2o36'E, Benin
+48,Stuttgart,48o47'N,9o11'E, Germany
+49,Eskisehir,39o47'N,30o31'E, Turkey
+50,Bursa,40o11'N,29o03'E, Turkey
+51,Tianjin,39o08'N,117o11'E, People's Republic of China
+52,Tagbilaran,9o39'N,123o51'E, Philippines
+53,Surat Thani,9o08'N,99o20'E, Thailand
+54,Adelaide,34o56'S,138o36'E, Australia
+55,Koulikoro,12o52'N,7o34'W, Mali
+56,Changchun,43o54'N,125o12'E, People's Republic of China
+57,Porto,41o10'N,8o37'W, Portugal
+58,Portsmouth,50o49'N,1o05'W, United Kingdom
+59,Leiden,52o10'N,4o29'E, Netherlands
+60,Brighton and Hove,50o50'N,0o09'W, United Kingdom
+61,Bujumbura,3o23'S,29o22'E, Burundi
+62,Mbabane,26o19'S,31o08'E, Swaziland
+63,Lillehammer,61o08'N,10o26'E, Norway
+64,Mexicali,32o40'N,115o28'W, Mexico
+65,Bologna,44o30'N,11o21'E, Italy
+66,Rostov-on-Don,47o14'N,39o42'E, Russia
+67,Papeete,17o32'S,149o34'W, France
+68,Craiova,44o20'N,23o49'E, Romania
+69,Bath,51o23'N,2o22'W, United Kingdom
+70,Kinshasa,4o20'S,15o19'E, Democratic Republic of the Congo
+71,Lahti,60o59'N,25o39'E, Finland
+72,Chuí,33o41'S,53o27'W, Brazil
+73,Georgetown,6o48'N,58o10'W, Guyana
+74,K?be,34o41'N,135o12'E, Japan
+75,Kathmandu,27o42'N,85o20'E, Nepal
+76,Rawalpindi,33o36'N,73o02'E, Pakistan
+77,Niamey,13o31'N,2o06'E, Niger
+78,Salalah,17o01'N,54o05'E, Oman
+79,Port Louis,20o10'S,57o30'E, Mauritius
+80,Saratov,51o32'N,46o01'E, Russia
+81,Port Hedland,20o19'S,118o36'E, Australia
+82,Cusco,13o32'S,71o58'W, Peru
+83,Tiaret,35o22'N,1o19'E, Algeria
+84,Bhisho,32o51'S,27o26'E, South Africa
+85,Nassau,25o04'N,77o20'W, Bahamas
+86,Ljubljana,46o03'N,14o31'E, Slovenia
+87,Örnsköldsvik,63o17'N,18o44'E, Sweden
+88,Latakia,35o31'N,35o47'E, Syria
+89,Tunis,36o48'N,10o11'E, Tunisia
+90,Kamloops,50o41'N,120o20'W, Canada
+91,Toronto,43o42'N,79o24'W, Canada
+92,Bristol,51o27'N,2o35'W, United Kingdom
+93,Yellowknife,62o27'N,114o24'W, Canada
+94,Utrecht,52o06'N,5o07'E, Netherlands
+95,La Serena,29o54'S,71o15'W, Chile
+96,Eureka,79o59'N,85o56'W, Canada
+97,Yamoussoukro,6o49'N,5o17'W, Ivory Coast
+98,Dunedin,45o52'S,170o30'E, New Zealand
+99,Bodø,67o18'N,14o33'E, Norway
+100,Nanning,22o49'N,108o19'E, People's Republic of China
+101,George Town,5o25'N,100o19'E, Malaysia
+102,Sydney,33o52'S,151o13'E, Australia
+103,Pontianak,0o01'S,109o20'E, Indonesia
+104,Manaus,3o06'S,60o01'W, Brazil
+105,George Town,19o18'N,81o23'W, United Kingdom
+106,Siem Reap,13o22'N,103o52'E, Cambodia
+107,Coventry,52o24'N,1o31'W, United Kingdom
+108,Peterborough,52o35'N,0o15'W, United Kingdom
+109,Leicester,52o38'N,1o08'W, United Kingdom
+110,Norwich,52o38'N,1o18'E, United Kingdom
+111,Liverpool,53o24'N,2o59'W, United Kingdom
+112,Bradford,53o48'N,1o45'W, United Kingdom
+113,St. George's,12o03'N,61o45'W, Grenada
+114,Weno,7o27'N,151o51'E, Federated States of Micronesia
+115,Östersund,63o11'N,14o40'E, Sweden
+116,Newcastle upon Tyne,54o58'N,1o37'W, United Kingdom
+117,Edinburgh,55o57'N,3o11'W, United Kingdom
+118,Oslo,59o57'N,10o45'E, Norway
+119,Pago Pago,14o17'S,170o42'W, United States
+120,Saipan,15o11'N,145o45'E, United States
+121,Charlotte Amalie,18o21'N,64o57'W, United States
+122,Wellington,41o17'S,174o47'E, New Zealand
+123,Lucknow,26o51'N,80o57'E, India
+124,Hilo,19o42'N,155o05'W, United States
+125,Vienna,48o13'N,16o22'E, Austria
+126,Kulpahar,25o19'N,79o38'E, India
+127,New Delhi,28o37'N,77o13'E, India
+128,Quito,0o15'S,78o35'W, Ecuador
+129,Verkhoyansk,67o33'N,133o23'E, Russia
+130,Batticaloa,7o43'N,81o42'E, Sri Lanka
+131,Tuktoyaktuk,69o27'N,133o02'W, Canada
+132,Sundsvall,62o24'N,17o19'E, Sweden
+133,Orlando,28o25'N,81o18'W, United States
+134,Sudbury,46o29'N,81o01'W, Canada
+135,Blantyre,15o47'S,35o00'E, Malawi
+136,New Orleans,29o58'N,90o03'W, United States
+137,Lhasa,29o39'N,91o06'E, People's Republic of China
+138,Edmonton,53o32'N,113o30'W, Canada
+139,Jacksonville,30o20'N,81o40'W, United States
+140,Mobile,30o42'N,88o03'W, United States
+141,Tucson,32o13'N,110o56'W, United States
+142,Siliguri,26o43'N,88o26'E, India
+143,Kochi,9o58'N,76o17'E, India
+144,Adana,37o00'N,35o19'E, Turkey
+145,Juiz de Fora,21o46'S,43o21'W, Brazil
+146,São Paulo,23o33'S,46o38'W, Brazil
+147,Palmas,10o11'S,48o20'W, Brazil
+148,Phoenix,33o27'N,112o04'W, United States
+149,Los Angeles,34o03'N,118o15'W, United States
+150,Serekunda,13o26'N,16o40'W, Gambia
+151,Surat,21o10'N,72o50'E, India
+152,Mendoza,32o53'S,68o49'W, Argentina
+153,Bamako,12o39'N,8o00'W, Mali
+154,Sochi,43o35'N,39o43'E, Russia
+155,Basseterre,17o18'N,62o44'W, Saint Kitts and Nevis
+156,Kiev,50o27'N,30o31'E, Ukraine
+157,Memphis,35o07'N,89o58'W, United States
+158,Santa Fe,35o40'N,105o58'W, United States
+159,Tulsa,36o08'N,95o56'W, United States
+160,Manila,14o35'N,120o58'E, Philippines
+161,Orléans,47o54'N,1o55'E, France
+162,Sucre,19o03'S,65o15'W, Bolivia
+163,Nelspruit,25o28'S,30o59'E, South Africa
+164,Omdurman,15o39'N,32o29'E, Sudan
+165,Novi Sad,45o15'N,19o51'E, Serbia
+166,Calama,22o28'S,68o56'W, Chile
+167,Oklahoma City,35o29'N,97o32'W, United States
+168,Nashville,36o10'N,86o47'W, United States
+169,Natal,5o47'S,35o12'W, Brazil
+170,Zagreb,45o49'N,15o59'E, Croatia
+171,Cologne,50o56'N,6o58'E, Germany
+172,Dongguan,23o02'N,113o43'E, People's Republic of China
+173,North Bay,46o18'N,79o27'W, Canada
+174,Sapporo,43o04'N,141o21'E, Japan
+175,Tijuana,32o32'N,117o02'W, Mexico
+176,Warsaw,52o14'N,21o01'E, Poland
+177,Naples,40o51'N,14o16'E, Italy
+178,Kazan,55o47'N,49o08'E, Russia
+179,Palermo,38o07'N,13o22'E, Italy
+180,Izhevsk,56o50'N,53o11'E, Russia
+181,Trivandrum,8o29'N,76o57'E, India
+182,Jerusalem,31o47'N,35o13'E, Israel
+183,Barcelona,41o23'N,2o11'E, Spain
+184,Albuquerque,35o07'N,106o37'W, United States
+185,Narvik,68o25'N,17o34'E, Norway
+186,Virginia Beach,36o51'N,75o59'W, United States
+187,Dodoma,6o10'S,35o45'E, Tanzania
+188,Asmara,15o20'N,38o56'E, Eritrea
+189,Belize City,17o30'N,88o11'W, Belize
+190,Springfield,37o12'N,93o17'W, United States
+191,Tskhinvali,42o14'N,43o58'E, Georgia
+192,Denpasar,8o39'S,115o13'E, Indonesia
+193,Brasília,15o48'S,47o52'W, Brazil
+194,Ciudad Juárez,31o44'N,106o29'W, Mexico
+195,Los Alamos,35o53'N,106o18'W, United States
+196,Mecca,21o25'N,39o49'E, Saudi Arabia
+197,Norilsk,69o20'N,88o13'E, Russia
+198,Lviv,49o51'N,24o01'E, Ukraine
+199,Wichita,37o41'N,97o20'W, United States
+200,Louisville,38o15'N,85o46'W, United States
+201, Mexico City,19o26'N,99o08'W, Mexico
+202,Cotonou,6o22'N,2o26'E, Benin
+203,Charleston,38o21'N,81o38'W, United States
+204,Ushuaia,54o48'S,68o18'W, Argentina
+205,Kansas City,39o06'N,94o35'W, United States
+206,Dover,39o10'N,75o32'W, United States
+207,Tokyo,35o41'N,139o42'E, Japan
+208,Qaqortoq,60o43'N,46o02'W, Denmark
+209,Baltimore,39o17'N,76o37'W, United States
+210,Reno,39o32'N,119o49'W, United States
+211,Indianapolis,39o46'N,86o09'W, United States
+212,Columbus,39o59'N,82o59'W, United States
+213,Trenton,40o13'N,74o46'W, United States
+214,Jersey City,40o43'N,74o04'W, United States
+215,Salt Lake City,40o45'N,111o53'W, United States
+216,Cheyenne,41o09'N,104o48'W, United States
+217,Ngerulmud,7o30'2'N,134o36'2'E, Palau
+218,Koror City,7o22'N,134o29'E, Palau
+219,Abu Dhabi,24o28'N,54o22'E, United Arab Emirates
+220,Atlanta,33o45'N,84o23'W, United States
+221,Bern,46o57'N,7o27'E, Switzerland
+222,Kingston,29o04'S,167o58'E, Australia
+223,Kingston,17o59'N,76o48'W, Jamaica
+224,Khon Kaen,16o26'N,102o50'E, Thailand
+225,Hartford,41o46'N,72o40'W, United States
+226,Windsor,42o17'N,83o00'W, Canada
+227,Providence,41o49'N,71o25'W, United States
+228,Maastricht,50o51'N,5o41'E, Netherlands
+229,Newcastle,32o55'S,151o45'E, Australia
+230,Krasnodar,45o02'N,38o58'E, Russia
+231,Boston,42o21'N,71o04'W, United States
+232,Isfahan,32o38'N,51o39'E, Iran
+233,Campo Grande,20o28'S,54o37'W, Brazil
+234,Kumasi,6o40'N,1o37'W, Ghana
+235,Halifax,44o51'N,63o12'W, Canada
+236,Athena,37o58'N,23o43'E, Greece
+237,Chinandega,12o37'N,87o09'W, Nicaragua
+238,Doha,25o17'N,51o32'E, Qatar
+239,Cluj-Napoca,46o46'N,23o35'E, Romania
+240,Nottingham,52o57'N,1o08'W, United Kingdom
+241,Barranquilla,10o58'N,74o48'W, Colombia
+242,Saskatoon,52o08'N,106o41'W, Canada
+243,Addis Ababa,9o02'N,38o44'E, Ethiopia
+244,Aberdeen,57o09'N,2o07'W, United Kingdom
+245,Buffalo,42o54'N,78o51'W, United States
+246,Antwerp,51o13'N,4o24'E, Belgium
+247,Dublin,53o21'N,6o16'W, Ireland
+248,Iquique,20o13'S,70o09'W, Chile
+249,Santo Domingo,18o28'N,69o57'W, Dominican Republic
+250,Kuusamo,65o58'N,29o11'E, Finland
+251,Saint-Denis,20o53'S,55o27'E, France
+252,Tel Aviv,32o04'N,34o47'E, Israel
+253,Yokohama,35o27'N,139o38'E, Japan
+254,Oranjestad,12o31'N,70o02'W, Netherlands
+255,Liberia,10o38'N,85o26'W, Costa Rica
+256,Sevilla,37o23'N,5o59'W, Spain
+257,Florianópolis,27o50'S,48o25'W, Brazil
+258,Fort McMurray,56o44'N,111o23'W, Canada
+259,Paris,48o51'N,2o21'E, France
+260,Acapulco,16o52'N,99o53'W, Mexico
+261,Irkutsk,52o19'N,104o18'E, Russia
+262,Daegu,35o52'N,128o36'E, South Korea
+263,Adamstown,25o04'S,130o06'W, United Kingdom
+264,Cardiff,51o29'N,3o11'W, United Kingdom
+265,Pretoria,25o45'S,28o11'E, South Africa
+266,San Francisco,37o47'N,122o25'W, United States
+267,Philadelphia,39o57'N,75o10'W, United States
+268,Fort Wayne,41o05'N,85o08'W, United States
+269,Jinan,36o40'N,116o59'E, People's Republic of China
+270,Nukulaelae,9o23'S,179o51'E, Tuvalu
+271,Labasa,16o26'S,179o22'E, Fiji
+272,Shimla,31o06'N,77o10'E, India
+273,Vancouver,49o15'N,123o06'W, Canada
+274,Gangtok,27o20'N,88o37'E, India
+275,Lagos,6o27'N,3o24'E, Nigeria
+276,Lanzhou,36o02'N,103o48'E, People's Republic of China
+277,Gda?sk,54o22'N,18o38'E, Poland
+278,Guwahati,26o11'N,91o44'E, India
+279,Luxembourg,49o37'N,6o07'E, Luxembourg
+280,Durango,24o01'N,104o40'W, Mexico
+281,Nzérékoré,7o45'N,8o49'W, Guinea
+282,Bissau,11o51'N,15o34'W, Guinea-Bissau
+283,Bridgetown,13o06'N,59o37'W, Barbados
+284,Kyoto,35o01'N,135o46'E, Japan
+285,Groningen,53o13'N,6o33'E, Netherlands
+286,Ürümqi,43o50'N,87o36'E, People's Republic of China
+287,Colombo,6o56'N,79o51'E, Sri Lanka
+288,Mombasa,4o03'S,39o40'E, Kenya
+289,Funchal,32o39'N,16o55'W, Portugal
+290,Gaborone,24o39'S,25o55'E, Botswana
+291,Norrköping,58o36'N,16o12'E, Sweden
+292,Pattaya,12o56'N,100o53'E, Thailand
+293,Ashgabat,37o56'N,58o22'E, Turkmenistan
+294,Sinop,11o51'S,55o39'W, Brazil
+295,Manchester,53o28'N,2o14'W, United Kingdom
+296,Amsterdam,52o22'N,4o54'E, Netherlands
+297,Chongqing,29o34'N,106o34'E, People's Republic of China
+298,Copiapó,27o22'S,70o20'W, Chile
+299,Flores Island,39o28'N,31o14'W, Portugal
+300,Zürich,47o22'N,8o33'E, Switzerland
+301,San Juan,18o27'N,66o04'W, United States
+302,Sabha,27o02'N,14o26'E, Libya
+303,Inverness,57o28'N,4o14'W, United Kingdom
+304,Mafikeng,25o51'S,25o38'E, South Africa
+305,Porto Alegre,30o02'S,51o14'W, Brazil
+306,Abuja,9o04'N,7o29'E, Nigeria
+307,Valencia,39o28'N,0o23'W, Spain
+308,Glasgow,55o51'N,4o16'W, United Kingdom
+309,San Diego,32o43'N,117o10'W, United States
+310,St. Louis,38o38'N,90o12'W, United States
+311,Luxor,25o41'N,32o39'E, Egypt
+312,Denver,39o44'N,104o59'W, United States
+313,Kristiansand,58o10'N,8o00'E, Norway
+314,Cambridge,52o12'N,0o07'E, United Kingdom
+315,Taiyuan,37o52'N,112o34'E, People's Republic of China
+316,Ambon,3o42'S,128o10'E, Indonesia
+317,Boulder,40o01'N,105o17'W, United States
+318,Milwaukee,43o03'N,87o57'W, United States
+319,Rochester,43o10'N,77o37'W, United States
+320,Chittagong,22o22'N,91o48'E, Bangladesh
+321,Khartoum,15o38'N,32o32'E, Sudan
+322,Port of Spain,10o40'N,61o31'W, Trinidad and Tobago
+323,Stanley,51o42'S,57o52'W, United Kingdom
+324,Chicago,41o53'N,87o38'W, United States
+325,Concord,43o12'N,71o32'W, United States
+326,Montpelier,44o15'N,72o34'W, United States
+327,Augusta,44o19'N,69o47'W, United States
+328,Pierre,44o22'N,100o20'W, United States
+329,Quezon City,14o38'N,121o02'E, Philippines
+330,Garanhuns,8o53'S,36o30'W, Brazil
+331,Portland,45o31'N,122o41'W, United States
+332,Bismarck,46o49'N,100o47'W, United States
+333,Seattle,47o37'N,122o20'W, United States
+334,Adak,51o53'N,176o39'W, United States
+335,Lilongwe,13o59'S,33o47'E, Malawi
+336,Chengdu,30o40'N,104o04'E, People's Republic of China
+337,Juneau,58o18'N,134o25'W, United States
+338,Araraquara,21o48'S,48o11'W, Brazil
+339,Deadhorse,70o12'N,148o31'W, United States
+340,Makati,14o33'N,121o02'E, Philippines
+341,Juba,4o51'N,31o36'E, South Sudan
+342,Southampton,50o54'N,1o24'W, United Kingdom
+343,Barrow,71o18'N,156o46'W, United States
+344,Greenwich,51o29'N,0o00'E/W, United Kingdom
+345, Buenos Aires,34o36'S,58o23'W, Argentina
+346,Austin,30o15'N,97o45'W, United States
+347,Tampa,27o57'N,82o28'W, United States
+348,Namangan,41o00'N,71o40'E, Uzbekistan
+349,Tashkent,41o16'N,69o13'E, Uzbekistan
+350,Nukus,42o28'N,59o36'E, Uzbekistan
+351,Port Vila,17o45'S,168o18'E, Vanuatu
+352,Malmö,55o35'N,13o02'E, Sweden
+353,Vatican City,41o54'N,12o27'E, Vatican City
+354,Kampala,0o19'N,32o35'E, Uganda
+355,Timbuktu,16o47'N,3o01'W, Mali
+356,Vladivostok,43o08'N,131o54'E, Russia
+357,Ouagadougou,12o21'N,1o32'W, Burkina Faso
+358,Caracas,10o30'N,66o55'W, Venezuela
+359,Maracaibo,10o39'N,71o38'W, Venezuela
+360,Puerto Ayacucho,5o40'N,67o38'W, Venezuela
+361,Vadsø,70o05'N,29o44'E, Norway
+362,Arkhangelsk,64o32'N,40o32'E, Russia
+363,Ciudad Bolívar,8o07'N,63o33'W, Venezuela
+364,Ho Chi Minh City,10o46'N,106o41'E, Vietnam
+365,Da Nang,16o04'N,108o14'E, Vietnam
+366,Calgary,51o03'N,114o04'W, Canada
+367,Townsville,19o15'S,146o49'E, Australia
+368,Ahmedabad,23o02'N,72o35'E, India
+369,Kanpur,26o28'N,80o20'E, India
+370,The Valley,18o13'N,63o03'W, United Kingdom
+371,Bratislava,48o09'N,17o07'E, Slovakia
+372,Odense,55o24'N,10o23'E, Denmark
+373,Banda Aceh,5o33'N,95o19'E, Indonesia
+374,Hu?,16o28'N,107o35'E, Vietnam
+375,Hanoi,21o02'N,105o51'E, Vietnam
+376,Qaanaaq,7o28'N,69o14'W, Denmark
+377,Mosul,36o20'N,43o08'E, Iraq
+378,Gweru,19o27'S,29o48'E, Zimbabwe
+379,Caruaru,8o17'S,35o59'W, Brazil
+380,Ludhiana,30o55'N,75o51'E, India
+381,Horta,38o35'N,28o43'W, Portugal
+382,New York City,40o40'N,73o56'W, United States
+383,Conakry,9o31'N,13o43'W, Guinea
+384,Petrolina,9o24'S,40o30'W, Brazil
+385,Assis,22o40'S,50o25'W, Brazil
+386,Roseau,15o18'N,61o23'W, Dominica
+387,Coihaique,45o34'S,72o04'W, Chile
+388,Tamale,9o24'N,0o51'W, Ghana
+389,Omsk,54o59'N,73o22'E, Russia
+390,Port Harcourt,4o45'N,7o00'E, Nigeria
+391,Upernavik,72o47'N,56o09'W, Denmark
+392,Puntarenas,9o58'N,84o50'W, Costa Rica
+393,Kiel,54o20'N,10o08'E, Germany
+394,Hyderabad,17o22'N,78o29'E, India
+395,Monaco,43o44'N,7o25'E, Monaco
+396,Hyderabad,25o23'N,68o22'E, Pakistan
+397,Dili,8o33'S,125o35'E, Timor-Leste
+398,Belfast,54o36'N,5o56'W, United Kingdom
+399,Entebbe,0o03'N,32o28'E, Uganda
+400,Des Moines,41o35'N,93o37'W, United States
+401,Montevideo,34o53'S,56o11'W, Uruguay
+402,Sitka,57o03'N,135o20'W, United States
+403,Zhengzhou,34o46'N,113o39'E, People's Republic of China
+404,Medan,3o35'N,98o40'E, Indonesia
+405,Bauru,22o19'S,49o04'W, Brazil
+406,Malang,7o59'S,112o37'E, Indonesia
+407,Grytviken,54o17'S,36o30'W, United Kingdom
+408,Nuorgam,70o05'N,27o53'E, Finland
+409,Zapopan,20o43'N,103o24'W, Mexico
+410,Enugu,6o27'N,7o31'E, Nigeria
+411,Bulawayo,20o10'S,28o35'E, Zimbabwe
+412,Baku,40o24'N,49o53'E, Azerbaijan
+413,Riga,56o57'N,24o06'E, Latvia
+414,Bloemfontein,29o07'S,26o13'E, South Africa
+415,Seoul,37o34'N,126o59'E, South Korea
+416,Ibiza,38o59'N,1o26'E, Spain
+417,Cartagena,10o24'N,75o30'W, Colombia
+418,Tirana,41o20'N,19o49'E, Albania
+419,Mogadishu,2o02'N,45o21'E, Somalia
+420,Valparaíso,33o03'S,71o37'W, Chile
+421,Arequipa,16o24'S,71o32'W, Peru
+422,Handan,36o36'N,114o29'E, People's Republic of China
+423,Salvador,12o58'S,38o29'W, Brazil
+424,Kelowna,49o53'N,119o30'W, Canada
+425,Melbourne,37o49'S,144o58'E, Australia
+426,Rovaniemi,66o30'N,25o44'E, Finland
+427,Nantes,47o13'N,1o33'W, France
+428,Kuala Lumpur,3o09'N,101o42'E, Malaysia
+429,Chihuahua,28o38'N,106o05'W, Mexico
+430,Willemstad,12o07'N,68o56'W, Netherlands
+431,Honolulu,21o19'N,157o50'W, United States
+432,Punta Arenas,53o10'S,70o56'W, Chile
+433,Cuiabá,15o36'S,56o06'W, Brazil
+434,Cairo,30o03'N,31o14'E, Egypt
+435,Incheon,37o29'N,126o38'E, South Korea
+436,Wonsan,39o09'N,127o27'E, North Korea
+437,Fredericton,45o57'N,66o40'W, Canada
+438,Murmansk,68o58'N,33o05'E, Russia
+439,Washington,38o54'N,77o02'W, United States
+440,Sacramento,38o33'N,121o28'W, United States
+441,Tornio,65o51'N,24o09'E, Finland
+442,Sana'a,15o21'N,44o12'E, Yemen
+443,Djibouti,11o35'N,43o09'E, Djibouti
+444,Sarajevo,43o51'N,18o21'E, Bosnia and Herzegovina
+445,Volgograd,48o42'N,44o31'E, Russia
+446,Miri,4o24'N,114o00'E, Malaysia
+447,Medina,24o28'N,39o36'E, Saudi Arabia
+448,London,51o30'N,0o08'W, United Kingdom
+449,Monterrey,25o40'N,100o18'W, Mexico
+450,Riverside,33o57'N,117o24'W, United States
+451,Cincinnati,39o06'N,84o31'W, United States
+452,Dundee,56o28'N,2o58'W, United Kingdom
+453,Islamabad,33o43'N,73o04'E, Pakistan
+454, Hong Kong,22o17'N,114o10'E, People's Republic of China
+455,Forked River,39o48'N,74o06'W, United States
+456,Lima,12o03'S,77o02'W, Peru
+457,Ndola,12o58'S,28o38'E, Zambia
+458,Rosario,32o57'S,60o40'W, Argentina
+459,Rouen,49o26'N,1o06'E, France
+460,Basse-Terre,16o00'N,61o44'W, France
+461,Port Moresby,9o31'S,147o13'E, Papua New Guinea
+462,Palikir,6o55'N,158o10'E, Federated States of Micronesia
+463,Lausanne,46o31'N,6o38'E, Switzerland
+464,Anchorage,61o13'N,149o54'W, United States
+465,Lusaka,15o25'S,28o17'E, Zambia
+466,Teresina,5o06'S,42o48'W, Brazil
+467,Peshawar,34o01'N,71o35'E, Pakistan
+468,Recife,8o03'S,34o54'W, Brazil
+469,Jayapura,2o32'S,140o43'E, Indonesia
+470,Valletta,35o54'N,14o31'E, Malta
+471,Yarmouth,43o50'N,66o07'W, Canada
+472,Shanghai,31o12'N,121o30'E, People's Republic of China
+473,Bangkok,13o45'N,100o28'E, Thailand
+474,Cleveland,41o29'N,81o40'W, United States
+475,Iqaluit,63o45'N,68o31'W, Canada
+476,Río Gallegos,51o38'S,69o13'W, Argentina
+477,Regina,50o27'N,104o36'W, Canada
+478,Florence,43o47'N,11o15'E, Italy
+479,Abidjan,5o19'N,4o02'W, Ivory Coast
+480,Dresden,51o02'N,13o44'E, Germany
+481,Salzburg,47o48'N,13o02'E, Austria
+482,Port Blair,11o40'N,92o46'E, India
+483,Kuwait City,29o22'N,47o59'E, Kuwait
+484,Johor Bahru,1o29'N,103o44'E, Malaysia
+485,Majuro,7o04'N,171o16'E, Marshall Islands
+486,Casablanca,33o32'N,7o35'W, Morocco
+487,Ghent,51o03'N,3o44'E, Belgium
+488,Srinagar,34o05'N,74o47'E, India
+489,Maputo,25o58'S,32o35'E, Mozambique
+490,Nelson,41o16'S,173o17'E, New Zealand
+491,Iloilo City,10o43'N,122o34'E, Philippines
+492,Beijing,39o55'N,116o23'E, People's Republic of China
+493,Durban,29o53'S,31o03'E, South Africa
+494,Tegucigalpa,14o06'N,87o13'W, Honduras
+495,Bilbao,43o15'N,2o55'W, Spain
+496,Boa Vista,2o49'N,60o40'W, Brazil
+497,Uppsala,59o51'N,17o39'E, Sweden
+498,Mwanza,2o31'S,32o54'E, Tanzania
+499,Malé,4o11'N,73o31'E, Maldives
+500,Udon Thani,17o25'N,102o45'E, Thailand
+501,Campinas,22o54'S,47o03'W, Brazil
+502,Kawasaki,35o31'N,139o42'E, Japan
+503,Chiang Rai,19o55'N,99o50'E, Thailand
+504,Jeddah,21o33'N,39o10'E, Saudi Arabia
+505,Kabul,34o32'N,69o10'E, Afghanistan
+506,Belgrade,44o49'N,20o28'E, Serbia
+507,Freetown,8o29'N,13o14'W, Sierra Leone
+508,Dhaka,23o42'N,90o23'E, Bangladesh
+509,Málaga,36o43'N,4o25'W, Spain
+510,Nuku?alofa,21o08'S,175o12'W, Tonga
+511,Kharkiv,50o00'N,36o14'E, Ukraine
+512,Plymouth,50o22'N,4o09'W, United Kingdom
+513,Surabaya,7o16'S,112o45'E, Indonesia
+514,Le Havre,49o29'N,0o06'E, France
+515,Manama,26o13'N,50o35'E, Bahrain
+516,Munich,48o08'N,11o34'E, Germany
+517,Kandy,7o18'N,80o38'E, Sri Lanka
+518,Lisbon,38o43'N,9o08'W, Portugal
+519,Sfax,34o44'N,10o46'E, Tunisia
+520,Douglas,54o09'N,4o29'W, United Kingdom
+521,Key West,24o34'N,81o47'W, United States
+522,Tapachula,14o54'N,92o16'W, Mexico
+523,Hastings,39o39'S,176o50'E, New Zealand
+524,Basra,30o30'N,47o49'E, Iraq
+525,Stjørdal,63o29'N,11o10'E, Norway
+526,Wuhan,30o35'N,114o17'E, People's Republic of China
+527,Macapá,0o02'N,51o04'W, Brazil
+528,Magadan,59o34'N,150o48'E, Russia
+529,Phuket,7o53'N,98o24'E, Thailand
+530,Linz,48o18'N,14o17'E, Austria
+531,?zmir,38o26'N,27o09'E, Turkey
+532,Vaduz,47o08'N,9o31'E, Liechtenstein
+533,The Hague,52o05'N,4o19'E, Netherlands
+534,Miami,25o47'N,80o13'W, United States
+535,Jackson,32o18'N,90o11'W, United States
+536,Balikpapan,1o16'S,116o50'E, Indonesia
+537,Columbia,34o00'N,81o03'W, United States
+538,Tartu,58o23'N,26o43'E, Estonia
+539,Moundou,8o34'N,16o05'E, Chad
+540,Tehran,35o42'N,51o25'E, Iran
+541,Pyongyang,39o01'N,125o44'E, North Korea
+542,Dammam,26o17'N,50o12'E, Saudi Arabia
+543,Mamoudzou,12o47'S,45o14'E, France
+544,Lleida,41o37'N,0o38'E, Spain
+545,Cebu City,10o17'N,123o54'E, Philippines
+546,Davao City,7o04'N,125o36'E, Philippines
+547,Manzini,26o29'S,31o22'E, Swaziland
+548, Macau,22o10'N,113o33'E, People's Republic of China
+549,São Tomé,0o20'N,6o41'E, São Tomé and Príncipe
+550,Hangzhou,30o15'N,120o10'E, People's Republic of China
+551,Lomé,6o08'N,1o13'E, Togo
+552,Bogotá,4o36'N,74o05'W, Colombia
+553,Konya,37o52'N,32o29'E, Turkey
+554,Puebla,19o03'N,98o13'W, Mexico
+555,Mandurah,32o32'S,115o43'E, Australia
+556,Nouakchott,18o06'N,15o57'W, Mauritania
+557,Stockholm,59o20'N,18o04'E, Sweden
+558,Exeter,50o43'N,3o32'W, United Kingdom
+559,Split,43o30'N,16o26'E, Croatia
+560,Nagoya,35o11'N,136o54'E, Japan
+561,Santiago,33o27'S,70o40'W, Chile
+562,Dallas,32o47'N,96o48'W, United States
+563,Las Vegas,36o11'N,115o08'W, United States
+564,Pittsburgh,40o27'N,80o00'W, United States
+565,Arica,18o29'S,70o20'W, Chile
+566,Brikama,13o16'N,16o39'W, Gambia
+567,Lincoln,40o49'N,96o41'W, United States
+568,Helena,46o36'N,112o02'W, United States
+569,Maracay,10o15'N,67o36'W, Venezuela
+570,Dubai,25o15'N,55o18'E, United Arab Emirates
+571,Mutare,18o58'S,32o38'E, Zimbabwe
+572,Pelotas,31o46'S,52o21'W, Brazil
+573,Xining,36o38'N,101o46'E, People's Republic of China
+574,Tromsø,69o41'N,18o57'E, Norway
+575,Tezpur,26o38'N,92o48'E, India
+576,Charlottetown,46o14'N,63o09'W, Canada
+577,Pudasjärvi,65o22'N,27o00'E, Finland
+578,Halkida,38o28'N,23o36'E, Greece
+579,Simferopol,44o57'N,34o06'E, Russia
+580,Lobamba,26o25'S,31o10'E, Swaziland
+581,Lubumbashi,11o40'S,27o28'E, Democratic Republic of the Congo
+582,Hammerfest,70o40'N,23o41'E, Norway
+583,Ny-Ålesund,78o55'N,11o56'E, Norway
+584,Windhoek,22o34'S,17o05'E, Namibia
+585,Kimberley,28o45'S,24o46'E, South Africa
+586,Road Town,18o26'N,64o37'W, United Kingdom
+587,Singapore,1o17'N,103o50'E, Singapore
+588,Swansea,51o37'N,3o57'W, United Kingdom
+589,Yaoundé,3o52'N,11o31'E, Cameroon
+590,Quebec City,46o49'N,71o13'W, Canada
+591,Houston,29o46'N,95o23'W, United States
+592,Amritsar,31o38'N,74o52'E, India
+593,Maseru,29o19'S,27o29'E, Lesotho
+594,Harare,17o52'S,31o02'E, Zimbabwe
+595,Honiara,9o28'S,159o49'E, Solomon Islands
+596,Detroit,42o20'N,83o03'W, United States
+597,São Luís,2o32'S,44o18'W, Brazil
+598,Puerto Montt,41o28'S,72o56'W, Chile
+599,Monrovia,6o19'N,10o48'W, Liberia
+600,Nemuro,43o20'N,145o35'E, Japan
+601,Gdynia,54o30'N,18o33'E, Poland
+602,Tiraspol,46o51'N,29o38'E, Moldova
+603,Chiang Mai,18o48'N,99o00'E, Thailand
+604,Little Rock,34o44'N,92o20'W, United States
+605,Oulu,65o01'N,25o28'E, Finland
+606,Tampere,61o30'N,23o46'E, Finland
+607,Hiroshima,34o23'N,132o27'E, Japan
+608,Boise,43o37'N,116o12'W, United States
+609,Gold Coast,28o01'S,153o24'E, Australia
+610,Hai Phong,20o51'N,106o41'E, Vietnam
+611,Managua,12o08'N,86o15'W, Nicaragua
+612,Minneapolis,44o59'N,93o16'W, United States
+613,Brest,48o23'N,4o29'W, France
+614,Nagpur,21o08'N,79o05'E, India
+615,Douala,4o03'N,9o42'E, Cameroon
+616,Melekeok,7o29'N,134o36'E, Palau
+617,João Pessoa,7o05'S,34o50'W, Brazil
+618,Praia,14o55'N,23o31'W, Cape Verde
+619,Kismayo,0o21'S,42o33'E, Somalia
+620,Moroni,11o45'S,43o12'E, Comoros
+621,Banjul,13o27'N,16o35'W, Gambia
+622,Berlin,52o31'N,13o23'E, Germany
+623,Libreville,0o23'N,9o27'E, Gabon
+624,Naypyidaw,19o45'N,96o06'E, Myanmar
+625,San Salvador,13o41'N,89o11'W, El Salvador
+626,Moscow,55o45'N,37o37'E, Russia
+627,Tampico,22o15'N,97o52'W, Mexico
+628,Panama City,8o59'N,79o31'W, Panama
+629,Bogor,6o36'S,106o48'E, Indonesia
+630,Yaroslavl,57o37'N,39o51'E, Russia
+631,Hamilton,37o47'S,175o17'E, New Zealand
+632,Hamilton,32o18'N,64o47'W, United Kingdom
+633,Querétaro,20o35'N,100o24'W, Mexico
+634,Hagåtña,13o29'N,144o45'E, United States
+635,Perm,58o00'N,56o19'E, Russia
+636,Dededo,13o31'N,144o50'E, United States
+637,Voronezh,51o40'N,39o13'E, Russia
+638,Sendai,38o16'N,140o52'E, Japan
+639,Chandigarh,30o45'N,76o47'E, India
+640,Cockburn Town,21o28'N,71o08'W, United Kingdom
+641,Cayenne,4o55'N,52o20'W, France
+642,Ibadan,7o24'N,3o55'E, Nigeria
+643,Moncton,46o08'N,64o46'W, Canada
+644,Nicosia,35o10'N,33o22'E, Cyprus
+645,Algiers,36o46'N,3o13'E, Algeria
+646,Luleå,65o35'N,22o09'E, Sweden
+647,San Antonio,29o25'N,98o30'W, United States
+648,Kota Kinabalu,5o58'N,116o06'E, Malaysia
+649,Cairns,16o56'S,145o47'E, Australia
+650,Helsinki,60o10'N,24o56'E, Finland
+651,Mérida,20o58'N,89o37'W, Mexico
+652,Santa Barbara,34o26'N,119o43'W, United States
+653,Knoxville,35o58'N,83o57'W, United States
+654,Visakhapatnam,17o41'N,83o13'E, India
+655,Kaohsiung,22o38'N,120o16'E, Republic of China (Taiwan)
+656,Leipzig,51o20'N,12o23'E, Germany
+657,Victoria,48o26'N,123o22'W, Canada
+658,Fukuoka,33o35'N,130o24'E, Japan
+659,Skopje,42o00'N,21o26'E, Macedonia
+660,Amman,31o56'N,35o56'E, Jordan
+661,Victoria,4o37'S,55o27'E, Seychelles
+662,Skellefteå,64o45'N,20o57'E, Sweden
+663,Haparanda,65o50'N,24o08'E, Sweden
+664,Mersin,36o48'N,34o38'E, Turkey
+665,Trelew,43o15'S,65o18'W, Argentina
+666,Gibraltar,36o08'N,5o21'W, United Kingdom
+667,Huambo,12o46'S,15o44'E, Angola
+668,Birmingham,52o29'N,1o54'W, United Kingdom
+669,Jamestown,15o55'S,5o43'W, United Kingdom
+670,Cagliari,39o15'N,9o03'E, Italy
+671,Leeds,53o48'N,1o33'W, United Kingdom
+672,Birmingham,33o39'N,86o49'W, United States
+673,Malabo,3o45'N,8o47'E, Equatorial Guinea
+674,Charlotte,35o14'N,80o51'W, United States
+675,Ankara,39o56'N,32o52'E, Turkey
+676,Raleigh,35o49'N,78o39'W, United States
+677,El Paso,31o47'N,106o25'W, United States
+678,Puerto Toro,55o05'S,67o05'W, Chile
+679,Minsk,53o54'N,27o34'E, Belarus
+680,Tabriz,38o04'N,46o18'E, Iran
+681,Shenzhen,22o33'N,114o06'E, People's Republic of China
+682,Geneva,46o12'N,6o09'E, Switzerland
+683,Qingdao,36o04'N,120o23'E, People's Republic of China
+684,Gloucester,51o52'N,2o14'W, United Kingdom
+685,Porto Velho,8o46'S,63o54'W, Brazil
+686,Hamburg,53o34'N,10o00'E, Germany
+687,South Tarawa,1o26'N,173o00'E, Kiribati
+688,Kuopio,62o54'N,27o41'E, Finland
+689,Lyon,45o46'N,4o51'E, France
+690,Kuching,1o34'N,110o21'E, Malaysia
+691,Ensenada,31o51'N,116o36'W, Mexico
+692,Bratsk,56o07'N,101o36'E, Russia
+693,Hargeisa,9o34'N,44o04'E, Somalia
+694,Nord,81o36'N,16o40'W, Denmark
+695,Trondheim,63o26'N,10o24'E, Norway
+696,Novosibirsk,55o01'N,82o56'E, Russia
+697,Krasnoyarsk,56o01'N,93o04'E, Russia
+698,Kingstown,13o09'N,61o14'W, Saint Vincent and the Grenadines
+699,Samara,53o12'N,50o08'E, Russia
+700,Brazzaville,4o16'S,15o18'E, Republic of the Congo
+701,Esbjerg,55o29'N,8o27'E, Denmark
+702,Yogyakarta,7o48'S,110o22'E, Indonesia
+703,Sarpsborg,59o17'N,11o12'E, Norway
+704,Istanbul,41o01'N,28o57'E, Turkey
+705,Fairbanks,64o51'N,147o43'W, United States
+706,Christchurch,43o32'S,172o37'E, New Zealand
+707,Kaesong,37o58'N,126o33'E, North Korea
+708,Odessa,46o28'N,30o44'E, Ukraine
+709,Canberra,35o18'S,149o07'E, Australia
+710,Karachi,24o52'N,67o01'E, Pakistan
+711,Livingstone,17o51'S,25o52'E, Zambia
+712,Invercargill,46o25'S,168o21'E, New Zealand
+713,Cork,51o54'N,8o28'W, Ireland
+714,Yekaterinburg,56o50'N,60o35'E, Russia
+715,Strasbourg,48o35'N,7o45'E, France
+716,Gothenburg,57o42'N,11o58'E, Sweden
+717,La Paz,16o30'S,68o09'W, Bolivia
+718,Stepanakert,39o49'N,46o45'E, Azerbaijan
+719,Thessaloniki,40o39'N,22o54'E, Greece
+720,Pune,18o31'N,73o51'E, India
+721,Johannesburg,26o12'S,28o03'E, South Africa
+722,Funafuti,8o31'S,179o13'E, Tuvalu
+723,Kirkuk,35o28'N,44o19'E, Iraq
+724,Eilat,29o33'N,34o57'E, Israel
+725,Thimphu,27o28'N,89o39'E, Bhutan
+726,Vantaa,60o18'N,25o02'E, Finland
+727,Chongjin,41o48'N,129o47'E, North Korea
+728,Accra,5o33'N,0o12'W, Ghana
+729,Longyearbyen,78o13'N,15o39'E, Norway
+730,Pristina,42o40'N,21o10'E, Serbia
+731,Piteå,65o20'N,21o30'E, Sweden
+732,Shigatse,29o16'N,88o53'E, People's Republic of China
+733,Veracruz,19o11'N,96o09'W, Mexico
+734,Suez,29o58'N,32o33'E, Egypt
+735,Sheffield,53o23'N,1o28'W, United Kingdom
+736,Maceió,9o40'S,35o44'W, Brazil
+737,Fortaleza,3o43'S,38o33'W, Brazil
+738,Guadalajara,20o40'N,103o21'W, Mexico
+739,Agra,27o11'N,78o01'E, India
+740,Iquitos,3o44'S,73o15'W, Peru
+741,Madrid,40o23'N,3o43'W, Spain
+742,Harbin,45o45'N,126o38'E, People's Republic of China
+743,Basel,47o34'N,7o36'E, Switzerland
+744,Bangui,4o22'N,18o35'E, Central African Republic
+745,N'Djamena,12o07'N,15o03'E, Chad
+746,Pekanbaru,0o32'N,101o27'E, Indonesia
+747,Oxford,51o45'N,1o15'W, United Kingdom
+748,Phnom Penh,11o33'N,104o55'E, Cambodia
+749,Düsseldorf,51o14'N,6o47'E, Germany
+750,Nanjing,32o03'N,118o46'E, People's Republic of China
+751,St. John's,17o07'N,61o51'W, Antigua and Barbuda
+752,St. John's,47o34'N,52o42'W, Canada
+753,Faisalabad,31o25'N,73o05'E, Pakistan
+754,Hobart,42o53'S,147o20'E, Australia
+755,Umeå,63o50'N,20o16'E, Sweden
+756,Baghdad,33o20'N,44o26'E, Iraq
+757,Wilmington,34o13'N,77o55'W, United States
+758,Messina,38o11'N,15o33'E, Italy
+759,Haarlem,52o23'N,4o38'E, Netherlands
+760,Andorra la Vella,42o30'N,1o30'E, Andorra
+761,San Miguel de Tucumán,26o49'S,65o13'W, Argentina
+762,Bahía Blanca,38o43'S,62o16'W, Argentina
+763,San Carlos de Bariloche,41o09'S,71o18'W, Argentina
+764,Comodoro Rivadavia,45o52'S,67o29'W, Argentina
+765,Geelong,38o09'S,144o21'E, Australia
+766,Santa Cruz de la Sierra,17o48'S,63o10'W, Bolivia
+767,Charleroi,50o24'N,4o26'E, Belgium
+768,Belém,1o27'S,48o30'W, Brazil
+769,Ilhéus,14o47'S,39o03'W, Brazil
+770,Governador Valadares,18o51'S,41o56'W, Brazil
+771,Belo Horizonte,19o55'S,43o56'W, Brazil
+772,São José do Rio Preto,20o48'S,49o23'W, Brazil
+773,Ribeirão Preto,21o11'S,47o48'W, Brazil
+774,Poços de Caldas,21o47'S,46o34'W, Brazil
+775,Rio de Janeiro,22o55'S,43o12'W, Brazil
+776,São José dos Campos,23o11'S,45o53'W, Brazil
+777,Fernando de Noronha,3o51'S,32o25'W, Brazil
+778,Juazeiro do Norte,7o12'S,39o20'W, Brazil
+779,Campina Grande,7o14'S,35o53'W, Brazil
+780,Bandar Seri Begawan,4o53'N,114o57'E, Brunei
+781,Bobo-Dioulasso,11o11'N,4o17'W, Burkina Faso
+782,Sault Ste. Marie,46o32'N,84o21'W, Canada
+783,Grande Prairie,55o10'N,118o48'W, Canada
+784,Córdoba,31o25'S,64o11'W, Argentina
+785,Concepción,36o50'S,73o03'W, Chile
+786,Hanga Roa,27o09'S,109o26'W, Chile
+787,Puerto Aisén,45o24'S,72o41'W, Chile
+788,Puerto Williams,54o56'S,67o37'W, Chile
+789,Innsbruck,47o16'N,11o23'E, Austria
+790,Santiago de Cali,3o25'N,76o31'W, Colombia
+791,Ottawa,45o25'N,75o41'W, Canada
+792,Thunder Bay,48o23'N,89o15'W, Canada
+793,Medellín,6o14'N,75o35'W, Colombia
+794,San José,9o56'N,84o05'W, Costa Rica
+795,Limón,9o59'N,83o02'W, Costa Rica
+796,Santiago de Cuba,20o01'N,75o49'W, Cuba
+797,Curitiba,25o25'S,49o15'W, Brazil
+798,Francistown,21o10'S,27o31'E, Botswana
+799,Aarhus,56o09'N,10o13'E, Denmark
+800,Nuuk (Godthåb),64o11'N,51o44'W, Denmark
+801,Alexandria,31o12'N,29o55'E, Egypt
+802,Port Said,31o15'N,32o17'E, Egypt
+803,Jyväskylä,62o15'N,25o45'E, Finland
+804,Fort-de-France,14o36'N,61o05'W, France
+805,Nouméa,22o17'S,166o27'E, France
+806,Frankfurt am Main,50o07'N,8o41'E, Germany
+807,Hannover,52o22'N,9o43'E, Germany
+808,Sekondi-Takoradi,4o55'N,1o46'W, Ghana
+809,Guatemala City,14o37'N,90o32'W, Guatemala
+810,Quetzaltenango,14o50'N,91o31'W, Guatemala
+811,Port-au-Prince,18o32'N,72o20'W, Haiti
+812,Reykjavík,64o08'N,21o56'W, Iceland
+813,Chennai (Madras),13o05'N,80o16'E, India
+814,Mumbai (Bombay),18o59'N,72o50'E, India
+815,Kolkata (Calcutta),22o34'N,88o22'E, India
+816,Dibrugarh,27o29'N,95o00'E, India
+817,Semarang,6o58'S,110o25'E, Indonesia
+818,Bremen,53o05'N,8o48'E, Germany
+819,Mashhad,36o18'N,59o36'E, Iran
+820,Osaka,34o42'N,135o30'E, Japan
+821,Suva,18o08'S,178o27'E, Fiji
+822,Puerto Vallarta,20o40'N,105o16'W, Mexico
+823,León,21o07'N,101o41'W, Mexico
+824,Cancún,21o10'N,86o51'W, Mexico
+825,Aguascalientes,21o53'N,102o18'W, Mexico
+826,San Luis Potosí,22o09'N,100o51'W, Mexico
+827,Imperatriz,5o32'S,47o29'W, Brazil
+828,Bangalore,12o58'N,77o34'E, India
+829,Cabo San Lucas,22o53'N,109o55'W, Mexico
+830,Darwin,12o27'S,130o50'E, Australia
+831,Culiacán,24o48'N,107o23'W, Mexico
+832,Naha,26o13'N,127o41'E, Japan
+833,Torreón,25o32'N,103o27'W, Mexico
+834,Brisbane,27o28'S,153o02'E, Australia
+835,Hermosillo,29o06'N,110o57'W, Mexico
+836,Benghazi,32o07'N,20o04'E, Libya
+837,Podgorica,42o26'N,19o16'E, Montenegro
+838,Turku,60o27'N,22o16'E, Finland
+839,El Aaiún,27o09'N,13o12'W, Morocco
+840,Bishkek,42o52'N,74o37'E, Kyrgyzstan
+841,Marrakech,31o38'N,8o01'W, Morocco
+842,Rabat,34o02'N,6o50'W, Morocco
+843,Yangon,16o48'N,96o09'E, Myanmar
+844,Yaren District,0o33'S,166o55'E, Nauru
+845,Avarua,21o12'S,159o46'W, New Zealand
+846,Auckland,36o50'S,174o44'E, New Zealand
+847,Marseille,43o18'N,5o22'E, France
+848,Benin City,6o19'N,5o36'E, Nigeria
+849,Bergen,60o23'N,5o20'E, Norway
+850,Multan,30o12'N,71o28'E, Pakistan
+851,Asunción,25o17'S,57o38'W, Paraguay
+852,Budapest,47o28'N,19o03'E, Hungary
+853,Alert,82o30'N,62o20'W, Canada
+854,Turin,45o04'N,7o42'E, Italy
+855,Vientiane,17o58'N,102o36'E, Laos
+856,Vilnius,54o41'N,25o17'E, Lithuania
+857,Kota Bharu,6o08'N,102o15'E, Malaysia
+858,Havana,23o08'N,82o23'W, Cuba
+859,Ciudad del Este,25o31'S,54o37'W, Paraguay
+860,Antofagasta,23o39'S,70o24'W, Chile
+861,Shenyang,41o48'N,123o24'E, People's Republic of China
+862,Ayacucho,13o10'S,74o13'W, Peru
+863,Zamboanga City,6o54'N,122o04'E, Philippines
+864,Kraków,50o04'N,19o56'E, Poland
+865,Ponta Delgada,37o49'N,25o45'W, Portugal
+866,Angra do Heroísmo,38o29'N,27o13'W, Portugal
+867,Espoo,60o12'N,24o39'E, Finland
+868,Nairobi,1o17'S,36o49'E, Kenya
+869,Alor Setar,6o07'N,100o22'E, Malaysia
+870,Lahore,31o33'N,74o21'E, Pakistan
+871,Milan,45o28'N,9o11'E, Italy
+872,Ulaanbaatar,47o55'N,106o55'E, Mongolia
+873,Xi'an,34o16'N,108o54'E, People's Republic of China
+874,Patna,25o37'N,85o09'E, India
+875,Agartala,23o50'N,91o16'E, India
+876,Palembang,2o59'S,104o45'E, Indonesia
+877,Alajuela,10o01'N,84o13'W, Costa Rica
+878,Enschede,52o13'N,6o54'E, Netherlands
+879,Tainan,22o59'N,120o11'E, Republic of China (Taiwan)
+880,Rio Branco,9o58'S,67o49'W, Brazil
+881,Bucharest,44o26'N,26o06'E, Romania
+882,Petropavlovsk-Kamchatsky,53o01'N,158o39'E, Russia
+883,Tolyatti,53o31'N,49o25'E, Russia
+884,Rome,41o54'N,12o30'E, Italy
+885,Ufa,54o45'N,55o58'E, Russia
+886,Chelyabinsk,55o09'N,61o23'E, Russia
+887,Nizhny Novgorod,56o20'N,44o00'E, Russia
+888,Saint Petersburg,59o57'N,30o18'E, Russia
+889,Yakutsk,62o02'N,129o44'E, Russia
+890,Anadyr,64o44'N,177o31'E, Russia
+891,Castries,14o01'N,60o59'W, Saint Lucia
+892,Belmopan,17o15'N,88o46'W, Belize
+893,Apia,13o50'S,171o45'W, Samoa
+894,Dakar,14o42'N,17o27'W, Senegal
+895,Thiès,14o47'N,16o55'W, Senegal
+896,Shijiazhuang,38o03'N,114o30'E, People's Republic of China
+897,Sofia,42o42'N,23o20'E, Bulgaria
+898,Polokwane,23o54'S,29o27'E, South Africa
+899,Pietermaritzburg,29o37'S,30o23'E, South Africa
+900,Cape Town,33o56'S,18o25'E, South Africa
+901,Wollongong,34o26'S,150o53'E, Australia
+902,Dalian,38o55'N,121o38'E, People's Republic of China
+903,Port Elizabeth,33o57'S,25o36'E, South Africa
+904,Prague,50o05'N,14o25'E, Czech Republic
+905,Aracaju,10o55'S,37o03'W, Brazil
+906,Copenhagen,55o41'N,12o34'E, Denmark
+907,Utsjoki,69o54'N,27o01'E, Finland
+908,Bordeaux,44o50'N,0o35'W, France
+909,Malacca Town,2o12'N,102o15'E, Malaysia
+910,Busan,35o11'N,129o05'E, South Korea
+911,Las Palmas de Gran Canaria,28o09'N,15o25'W, Spain
+912,Jakarta,6o12'S,106o48'E, Indonesia
+913,Santa Cruz de Tenerife,28o28'N,16o15'W, Spain
+914,Luanda,8o50'S,13o14'E, Angola
+915,Yerevan,40o11'N,44o31'E, Armenia
+916,Perth,31o57'S,115o52'E, Australia
+917,Guayaquil,2o11'S,79o53'W, Ecuador
+918,Vaasa,63o06'N,21o37'E, Finland
+919,Cannes,43o33'N,7o01'E, France
+920,Palma,39o34'N,2o39'E, Spain
+921,Kemi,65o44'N,24o34'E, Finland
+922,Taichung,24o09'N,120o40'E, Republic of China (Taiwan)
+923,Zaragoza,41o39'N,0o53'W, Spain
+924,Tripoli,32o54'N,13o11'E, Libya
+925,Salta,24o47'S,65o25'W, Argentina
+926,Sri Jayawardenapura-Kotte,6o55'N,79o53'E, Sri Lanka
+927,Paramaribo,5o52'N,55o10'W, Suriname
+928,Cúcuta,7o54'N,72o30'W, Colombia
+929,Tórshavn,62o01'N,6o46'W, Denmark
+930,Boden,65o50'N,21o43'E, Sweden
+931,Kiruna,67o51'N,20o13'E, Sweden
+932,Zanzibar City,6o10'S,39o12'E, Tanzania
+933,Almaty,43o17'N,76o54'E, Kazakhstan
+934,Dar es Salaam,6o48'S,39o17'E, Tanzania
+935,Graz,47o04'N,15o26'E, Austria
+936,Goiânia,16o40'S,49o15'W, Brazil
+937,Uberlândia,18o55'S,48o17'W, Brazil
+938,Vitória,20o19'S,40o20'W, Brazil
+939,Temuco,38o45'S,72o40'W, Chile
+940,Rockhampton,23o23'S,150o31'E, Australia
+941,Shillong,25o34'N,91o53'E, India
+942,Toulouse,43o36'N,1o27'E, France
+943,Jaipur,26o56'N,75o49'E, India
+944,Valdivia,39o49'S,73o15'W, Chile
+945,Saint John,45o17'N,66o05'W, Canada
+946,Kemijärvi,66o43'N,27o26'E, Finland
+947,Whitehorse,60o43'N,135o03'W, Canada
+948,Heraklion,35o20'N,25o08'E, Greece
+949,Akureyri,65o41'N,18o06'W, Iceland
+950,Ísafjörður,66o05'N,23o08'W, Iceland
+951,Makassar,5o08'S,119o25'E, Indonesia

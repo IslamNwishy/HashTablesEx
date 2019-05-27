@@ -1,0 +1,952 @@
+No.,City,Latitude,Longitude,Country
+1,Kandahar,31°37?N,65°43?E, Afghanistan
+2,Kabul,34°32?N,69°10?E, Afghanistan
+3,Tirana,41°20?N,19°49?E, Albania
+4,Tiaret,35°22?N,1°19?E, Algeria
+5,Algiers,36°46?N,3°13?E, Algeria
+6,Andorra la Vella,42°30?N,1°30?E, Andorra
+7,Huambo,12°46?S,15°44?E, Angola
+8,Luanda,8°50?S,13°14?E, Angola
+9,St. John's,17°07?N,61°51?W, Antigua and Barbuda
+10,Salta,24°47?S,65°25?W, Argentina
+11,San Miguel de Tucumán,26°49?S,65°13?W, Argentina
+12,Córdoba,31°25?S,64°11?W, Argentina
+13,Mendoza,32°53?S,68°49?W, Argentina
+14,Rosario,32°57?S,60°40?W, Argentina
+15, Buenos Aires,34°36?S,58°23?W, Argentina
+16,Bahía Blanca,38°43?S,62°16?W, Argentina
+17,San Carlos de Bariloche,41°09?S,71°18?W, Argentina
+18,Trelew,43°15?S,65°18?W, Argentina
+19,Comodoro Rivadavia,45°52?S,67°29?W, Argentina
+20,Río Gallegos,51°38?S,69°13?W, Argentina
+21,Ushuaia,54°48?S,68°18?W, Argentina
+22,Yerevan,40°11?N,44°31?E, Armenia
+23,Darwin,12°27?S,130°50?E, Australia
+24,Cairns,16°56?S,145°47?E, Australia
+25,Townsville,19°15?S,146°49?E, Australia
+26,Port Hedland,20°19?S,118°36?E, Australia
+27,Rockhampton,23°23?S,150°31?E, Australia
+28,Brisbane,27°28?S,153°02?E, Australia
+29,Gold Coast,28°01?S,153°24?E, Australia
+30,Kingston,29°04?S,167°58?E, Australia
+31,Perth,31°57?S,115°52?E, Australia
+32,Mandurah,32°32?S,115°43?E, Australia
+33,Newcastle,32°55?S,151°45?E, Australia
+34,Sydney,33°52?S,151°13?E, Australia
+35,Wollongong,34°26?S,150°53?E, Australia
+36,Adelaide,34°56?S,138°36?E, Australia
+37,Canberra,35°18?S,149°07?E, Australia
+38,Melbourne,37°49?S,144°58?E, Australia
+39,Geelong,38°09?S,144°21?E, Australia
+40,Hobart,42°53?S,147°20?E, Australia
+41,Graz,47°04?N,15°26?E, Austria
+42,Innsbruck,47°16?N,11°23?E, Austria
+43,Salzburg,47°48?N,13°02?E, Austria
+44,Vienna,48°13?N,16°22?E, Austria
+45,Linz,48°18?N,14°17?E, Austria
+46,Stepanakert,39°49?N,46°45?E, Azerbaijan
+47,Baku,40°24?N,49°53?E, Azerbaijan
+48,Nassau,25°04?N,77°20?W, Bahamas
+49,Manama,26°13?N,50°35?E, Bahrain
+50,Chittagong,22°22?N,91°48?E, Bangladesh
+51,Dhaka,23°42?N,90°23?E, Bangladesh
+52,Bridgetown,13°06?N,59°37?W, Barbados
+53,Minsk,53°54?N,27°34?E, Belarus
+54,Charleroi,50°24?N,4°26?E, Belgium
+55,Brussels,50°51?N,4°21?E, Belgium
+56,Ghent,51°03?N,3°44?E, Belgium
+57,Antwerp,51°13?N,4°24?E, Belgium
+58,Belmopan,17°15?N,88°46?W, Belize
+59,Belize City,17°30?N,88°11?W, Belize
+60,Cotonou,6°22?N,2°26?E, Benin
+61,Porto-Novo,6°30?N,2°36?E, Benin
+62,Thimphu,27°28?N,89°39?E, Bhutan
+63,La Paz,16°30?S,68°09?W, Bolivia
+64,Santa Cruz de la Sierra,17°48?S,63°10?W, Bolivia
+65,Sucre,19°03?S,65°15?W, Bolivia
+66,Sarajevo,43°51?N,18°21?E, Bosnia and Herzegovina
+67,Francistown,21°10?S,27°31?E, Botswana
+68,Gaborone,24°39?S,25°55?E, Botswana
+69,Macapá,0°02?N,51°04?W, Brazil
+70,Belém,1°27?S,48°30?W, Brazil
+71,Palmas,10°11?S,48°20?W, Brazil
+72,Aracaju,10°55?S,37°03?W, Brazil
+73,Sinop,11°51?S,55°39?W, Brazil
+74,Salvador,12°58?S,38°29?W, Brazil
+75,Ilhéus,14°47?S,39°03?W, Brazil
+76,Cuiabá,15°36?S,56°06?W, Brazil
+77,Brasília,15°48?S,47°52?W, Brazil
+78,Goiânia,16°40?S,49°15?W, Brazil
+79,Governador Valadares,18°51?S,41°56?W, Brazil
+80,Uberlândia,18°55?S,48°17?W, Brazil
+81,Belo Horizonte,19°55?S,43°56?W, Brazil
+82,São Luís,2°32?S,44°18?W, Brazil
+83,Boa Vista,2°49?N,60°40?W, Brazil
+84,Vitória,20°19?S,40°20?W, Brazil
+85,Campo Grande,20°28?S,54°37?W, Brazil
+86,São José do Rio Preto,20°48?S,49°23?W, Brazil
+87,Ribeirão Preto,21°11?S,47°48?W, Brazil
+88,Juiz de Fora,21°46?S,43°21?W, Brazil
+89,Poços de Caldas,21°47?S,46°34?W, Brazil
+90,Araraquara,21°48?S,48°11?W, Brazil
+91,Bauru,22°19?S,49°04?W, Brazil
+92,Assis,22°40?S,50°25?W, Brazil
+93,Campinas,22°54?S,47°03?W, Brazil
+94,Rio de Janeiro,22°55?S,43°12?W, Brazil
+95,São José dos Campos,23°11?S,45°53?W, Brazil
+96,São Paulo,23°33?S,46°38?W, Brazil
+97,Curitiba,25°25?S,49°15?W, Brazil
+98,Florianópolis,27°50?S,48°25?W, Brazil
+99,Manaus,3°06?S,60°01?W, Brazil
+100,Sobral,3°40?S,40°14?W, Brazil
+101,Fortaleza,3°43?S,38°33?W, Brazil
+102,Fernando de Noronha,3°51?S,32°25?W, Brazil
+103,Porto Alegre,30°02?S,51°14?W, Brazil
+104,Pelotas,31°46?S,52°21?W, Brazil
+105,Chuí,33°41?S,53°27?W, Brazil
+106,Teresina,5°06?S,42°48?W, Brazil
+107,Imperatriz,5°32?S,47°29?W, Brazil
+108,Natal,5°47?S,35°12?W, Brazil
+109,João Pessoa,7°05?S,34°50?W, Brazil
+110,Juazeiro do Norte,7°12?S,39°20?W, Brazil
+111,Campina Grande,7°14?S,35°53?W, Brazil
+112,Recife,8°03?S,34°54?W, Brazil
+113,Caruaru,8°17?S,35°59?W, Brazil
+114,Porto Velho,8°46?S,63°54?W, Brazil
+115,Garanhuns,8°53?S,36°30?W, Brazil
+116,Petrolina,9°24?S,40°30?W, Brazil
+117,Maceió,9°40?S,35°44?W, Brazil
+118,Rio Branco,9°58?S,67°49?W, Brazil
+119,Bandar Seri Begawan,4°53?N,114°57?E, Brunei
+120,Sofia,42°42?N,23°20?E, Bulgaria
+121,Bobo-Dioulasso,11°11?N,4°17?W, Burkina Faso
+122,Ouagadougou,12°21?N,1°32?W, Burkina Faso
+123,Bujumbura,3°23?S,29°22?E, Burundi
+124,Phnom Penh,11°33?N,104°55?E, Cambodia
+125,Siem Reap,13°22?N,103°52?E, Cambodia
+126,Yaoundé,3°52?N,11°31?E, Cameroon
+127,Douala,4°03?N,9°42?E, Cameroon
+128,Windsor,42°17?N,83°00?W, Canada
+129,Toronto,43°42?N,79°24?W, Canada
+130,Yarmouth,43°50?N,66°07?W, Canada
+131,Halifax,44°51?N,63°12?W, Canada
+132,Saint John,45°17?N,66°05?W, Canada
+133,Ottawa,45°25?N,75°41?W, Canada
+134,Montreal,45°30?N,73°34?W, Canada
+135,Fredericton,45°57?N,66°40?W, Canada
+136,Moncton,46°08?N,64°46?W, Canada
+137,Charlottetown,46°14?N,63°09?W, Canada
+138,North Bay,46°18?N,79°27?W, Canada
+139,Sudbury,46°29?N,81°01?W, Canada
+140,Sault Ste. Marie,46°32?N,84°21?W, Canada
+141,Quebec City,46°49?N,71°13?W, Canada
+142,St. John's,47°34?N,52°42?W, Canada
+143,Thunder Bay,48°23?N,89°15?W, Canada
+144,Victoria,48°26?N,123°22?W, Canada
+145,Vancouver,49°15?N,123°06?W, Canada
+146,Kelowna,49°53?N,119°30?W, Canada
+147,Winnipeg,49°54?N,97°08?W, Canada
+148,Regina,50°27?N,104°36?W, Canada
+149,Kamloops,50°41?N,120°20?W, Canada
+150,Calgary,51°03?N,114°04?W, Canada
+151,Saskatoon,52°08?N,106°41?W, Canada
+152,Edmonton,53°32?N,113°30?W, Canada
+153,Grande Prairie,55°10?N,118°48?W, Canada
+154,Fort McMurray,56°44?N,111°23?W, Canada
+155,Whitehorse,60°43?N,135°03?W, Canada
+156,Yellowknife,62°27?N,114°24?W, Canada
+157,Iqaluit,63°45?N,68°31?W, Canada
+158,Tuktoyaktuk,69°27?N,133°02?W, Canada
+159,Grise Fiord,76°25?N,82°54?W, Canada
+160,Eureka,79°59?N,85°56?W, Canada
+161,Alert,82°30?N,62°20?W, Canada
+162,Praia,14°55?N,23°31?W, Cape Verde
+163,Bangui,4°22?N,18°35?E, Central African Republic
+164,N'Djamena,12°07?N,15°03?E, Chad
+165,Moundou,8°34?N,16°05?E, Chad
+166,Arica,18°29?S,70°20?W, Chile
+167,Iquique,20°13?S,70°09?W, Chile
+168,Calama,22°28?S,68°56?W, Chile
+169,Antofagasta,23°39?S,70°24?W, Chile
+170,Hanga Roa,27°09?S,109°26?W, Chile
+171,Copiapó,27°22?S,70°20?W, Chile
+172,La Serena,29°54?S,71°15?W, Chile
+173,Valparaíso,33°03?S,71°37?W, Chile
+174,Santiago,33°27?S,70°40?W, Chile
+175,Concepción,36°50?S,73°03?W, Chile
+176,Temuco,38°45?S,72°40?W, Chile
+177,Valdivia,39°49?S,73°15?W, Chile
+178,Puerto Montt,41°28?S,72°56?W, Chile
+179,Puerto Aisén,45°24?S,72°41?W, Chile
+180,Coihaique,45°34?S,72°04?W, Chile
+181,Punta Arenas,53°10?S,70°56?W, Chile
+182,Puerto Williams,54°56?S,67°37?W, Chile
+183,Puerto Toro,55°05?S,67°05?W, Chile
+184,Cartagena,10°24?N,75°30?W, Colombia
+185,Barranquilla,10°58?N,74°48?W, Colombia
+186,Santiago de Cali,3°25?N,76°31?W, Colombia
+187,Bogotá,4°36?N,74°05?W, Colombia
+188,Medellín,6°14?N,75°35?W, Colombia
+189,Cúcuta,7°54?N,72°30?W, Colombia
+190,Moroni,11°45?S,43°12?E, Comoros
+191,Alajuela,10°01?N,84°13?W, Costa Rica
+192,Liberia,10°38?N,85°26?W, Costa Rica
+193,San José,9°56?N,84°05?W, Costa Rica
+194,Puntarenas,9°58?N,84°50?W, Costa Rica
+195,Limón,9°59?N,83°02?W, Costa Rica
+196,Split,43°30?N,16°26?E, Croatia
+197,Zagreb,45°49?N,15°59?E, Croatia
+198,Santiago de Cuba,20°01?N,75°49?W, Cuba
+199,Havana,23°08?N,82°23?W, Cuba
+200,Nicosia,35°10?N,33°22?E, Cyprus
+201,Prague,50°05?N,14°25?E, Czech Republic
+202,Lubumbashi,11°40?S,27°28?E, Democratic Republic of the Congo
+203,Kinshasa,4°20?S,15°19?E, Democratic Republic of the Congo
+204,Odense,55°24?N,10°23?E, Denmark
+205,Esbjerg,55°29?N,8°27?E, Denmark
+206,Copenhagen,55°41?N,12°34?E, Denmark
+207,Aarhus,56°09?N,10°13?E, Denmark
+208,Qaqortoq,60°43?N,46°02?W, Denmark
+209,Tórshavn,62°01?N,6°46?W, Denmark
+210,Nuuk (Godthåb),64°11?N,51°44?W, Denmark
+211,Qaanaaq,7°28?N,69°14?W, Denmark
+212,Upernavik,72°47?N,56°09?W, Denmark
+213,Nord,81°36?N,16°40?W, Denmark
+214,Djibouti,11°35?N,43°09?E, Djibouti
+215,Roseau,15°18?N,61°23?W, Dominica
+216,Santo Domingo,18°28?N,69°57?W, Dominican Republic
+217,Quito,0°15?S,78°35?W, Ecuador
+218,Guayaquil,2°11?S,79°53?W, Ecuador
+219,Luxor,25°41?N,32°39?E, Egypt
+220,Suez,29°58?N,32°33?E, Egypt
+221,Cairo,30°03?N,31°14?E, Egypt
+222,Alexandria,31°12?N,29°55?E, Egypt
+223,Port Said,31°15?N,32°17?E, Egypt
+224,San Salvador,13°41?N,89°11?W, El Salvador
+225,Malabo,3°45?N,8°47?E, Equatorial Guinea
+226,Asmara,15°20?N,38°56?E, Eritrea
+227,Tartu,58°23?N,26°43?E, Estonia
+228,Tallinn,59°26?N,24°45?E, Estonia
+229,Addis Ababa,9°02?N,38°44?E, Ethiopia
+230,Palikir,6°55?N,158°10?E, Federated States of Micronesia
+231,Weno,7°27?N,151°51?E, Federated States of Micronesia
+232,Labasa,16°26?S,179°22?E, Fiji
+233,Rabi Island,16°30?S,180°00?W, Fiji
+234,Suva,18°08?S,178°27?E, Fiji
+235,Helsinki,60°10?N,24°56?E, Finland
+236,Espoo,60°12?N,24°39?E, Finland
+237,Vantaa,60°18?N,25°02?E, Finland
+238,Turku,60°27?N,22°16?E, Finland
+239,Lahti,60°59?N,25°39?E, Finland
+240,Tampere,61°30?N,23°46?E, Finland
+241,Jyväskylä,62°15?N,25°45?E, Finland
+242,Kuopio,62°54?N,27°41?E, Finland
+243,Vaasa,63°06?N,21°37?E, Finland
+244,Oulu,65°01?N,25°28?E, Finland
+245,Pudasjärvi,65°22?N,27°00?E, Finland
+246,Kemi,65°44?N,24°34?E, Finland
+247,Tornio,65°51?N,24°09?E, Finland
+248,Kuusamo,65°58?N,29°11?E, Finland
+249,Rovaniemi,66°30?N,25°44?E, Finland
+250,Kemijärvi,66°43?N,27°26?E, Finland
+251,Utsjoki,69°54?N,27°01?E, Finland
+252,Nuorgam,70°05?N,27°53?E, Finland
+253,Mamoudzou,12°47?S,45°14?E, France
+254,Mata-Utu,13°17?S,176°11?W, France
+255,Fort-de-France,14°36?N,61°05?W, France
+256,Basse-Terre,16°00?N,61°44?W, France
+257,Papeete,17°32?S,149°34?W, France
+258,Saint-Denis,20°53?S,55°27?E, France
+259,Nouméa,22°17?S,166°27?E, France
+260,Cayenne,4°55?N,52°20?W, France
+261,Marseille,43°18?N,5°22?E, France
+262,Cannes,43°33?N,7°01?E, France
+263,Toulouse,43°36?N,1°27?E, France
+264,Nice,43°42?N,7°16?E, France
+265,Bordeaux,44°50?N,0°35?W, France
+266,Lyon,45°46?N,4°51?E, France
+267,Saint-Pierre,46°47?N,56°11?W, France
+268,Nantes,47°13?N,1°33?W, France
+269,Orléans,47°54?N,1°55?E, France
+270,Brest,48°23?N,4°29?W, France
+271,Strasbourg,48°35?N,7°45?E, France
+272,Paris,48°51?N,2°21?E, France
+273,Rouen,49°26?N,1°06?E, France
+274,Le Havre,49°29?N,0°06?E, France
+275,Calais,50°57?N,1°51?E, France
+276,Libreville,0°23?N,9°27?E, Gabon
+277,Brikama,13°16?N,16°39?W, Gambia
+278,Serekunda,13°26?N,16°40?W, Gambia
+279,Banjul,13°27?N,16°35?W, Gambia
+280,Tbilisi,41°43?N,44°47?E, Georgia
+281,Tskhinvali,42°14?N,43°58?E, Georgia
+282,Sukhumi,43°00?N,41°01?E, Georgia
+283,Munich,48°08?N,11°34?E, Germany
+284,Stuttgart,48°47?N,9°11?E, Germany
+285,Frankfurt am Main,50°07?N,8°41?E, Germany
+286,Cologne,50°56?N,6°58?E, Germany
+287,Dresden,51°02?N,13°44?E, Germany
+288,Düsseldorf,51°14?N,6°47?E, Germany
+289,Leipzig,51°20?N,12°23?E, Germany
+290,Hannover,52°22?N,9°43?E, Germany
+291,Berlin,52°31?N,13°23?E, Germany
+292,Bremen,53°05?N,8°48?E, Germany
+293,Hamburg,53°34?N,10°00?E, Germany
+294,Kiel,54°20?N,10°08?E, Germany
+295,Sekondi-Takoradi,4°55?N,1°46?W, Ghana
+296,Accra,5°33?N,0°12?W, Ghana
+297,Kumasi,6°40?N,1°37?W, Ghana
+298,Tamale,9°24?N,0°51?W, Ghana
+299,Heraklion,35°20?N,25°08?E, Greece
+300,Athena,37°58?N,23°43?E, Greece
+301,Halkida,38°28?N,23°36?E, Greece
+302,Thessaloniki,40°39?N,22°54?E, Greece
+303,St. George's,12°03?N,61°45?W, Grenada
+304,Guatemala City,14°37?N,90°32?W, Guatemala
+305,Quetzaltenango,14°50?N,91°31?W, Guatemala
+306,Nzérékoré,7°45?N,8°49?W, Guinea
+307,Conakry,9°31?N,13°43?W, Guinea
+308,Bissau,11°51?N,15°34?W, Guinea-Bissau
+309,Georgetown,6°48?N,58°10?W, Guyana
+310,Port-au-Prince,18°32?N,72°20?W, Haiti
+311,Tegucigalpa,14°06?N,87°13?W, Honduras
+312,Budapest,47°28?N,19°03?E, Hungary
+313,Reykjavík,64°08?N,21°56?W, Iceland
+314,Akureyri,65°41?N,18°06?W, Iceland
+315,Ísafjörður,66°05?N,23°08?W, Iceland
+316,Port Blair,11°40?N,92°46?E, India
+317,Bangalore,12°58?N,77°34?E, India
+318,Chennai (Madras),13°05?N,80°16?E, India
+319,Hyderabad,17°22?N,78°29?E, India
+320,Visakhapatnam,17°41?N,83°13?E, India
+321,Pune,18°31?N,73°51?E, India
+322,Mumbai (Bombay),18°59?N,72°50?E, India
+323,Nagpur,21°08?N,79°05?E, India
+324,Surat,21°10?N,72°50?E, India
+325,Kolkata (Calcutta),22°34?N,88°22?E, India
+326,Ahmedabad,23°02?N,72°35?E, India
+327,Agartala,23°50?N,91°16?E, India
+328,Kulpahar,25°19?N,79°38?E, India
+329,Shillong,25°34?N,91°53?E, India
+330,Patna,25°37?N,85°09?E, India
+331,Guwahati,26°11?N,91°44?E, India
+332,Kanpur,26°28?N,80°20?E, India
+333,Tezpur,26°38?N,92°48?E, India
+334,Siliguri,26°43?N,88°26?E, India
+335,Lucknow,26°51?N,80°57?E, India
+336,Jaipur,26°56?N,75°49?E, India
+337,Agra,27°11?N,78°01?E, India
+338,Gangtok,27°20?N,88°37?E, India
+339,Dibrugarh,27°29?N,95°00?E, India
+340,New Delhi,28°37?N,77°13?E, India
+341,Chandigarh,30°45?N,76°47?E, India
+342,Ludhiana,30°55?N,75°51?E, India
+343,Shimla,31°06?N,77°10?E, India
+344,Amritsar,31°38?N,74°52?E, India
+345,Srinagar,34°05?N,74°47?E, India
+346,Trivandrum,8°29?N,76°57?E, India
+347,Kochi,9°58?N,76°17?E, India
+348,Pontianak,0°01?S,109°20?E, Indonesia
+349,Pekanbaru,0°32?N,101°27?E, Indonesia
+350,Padang,0°57?S,100°21?E, Indonesia
+351,Balikpapan,1°16?S,116°50?E, Indonesia
+352,Jayapura,2°32?S,140°43?E, Indonesia
+353,Palembang,2°59?S,104°45?E, Indonesia
+354,Medan,3°35?N,98°40?E, Indonesia
+355,Ambon,3°42?S,128°10?E, Indonesia
+356,Makassar,5°08?S,119°25?E, Indonesia
+357,Banda Aceh,5°33?N,95°19?E, Indonesia
+358,Jakarta,6°12?S,106°48?E, Indonesia
+359,Bogor,6°36?S,106°48?E, Indonesia
+360,Bandung,6°55?S,107°37?E, Indonesia
+361,Semarang,6°58?S,110°25?E, Indonesia
+362,Surabaya,7°16?S,112°45?E, Indonesia
+363,Yogyakarta,7°48?S,110°22?E, Indonesia
+364,Malang,7°59?S,112°37?E, Indonesia
+365,Denpasar,8°39?S,115°13?E, Indonesia
+366,Isfahan,32°38?N,51°39?E, Iran
+367,Tehran,35°42?N,51°25?E, Iran
+368,Mashhad,36°18?N,59°36?E, Iran
+369,Tabriz,38°04?N,46°18?E, Iran
+370,Basra,30°30?N,47°49?E, Iraq
+371,Baghdad,33°20?N,44°26?E, Iraq
+372,Kirkuk,35°28?N,44°19?E, Iraq
+373,Erbil,36°11?N,44°01?E, Iraq
+374,Mosul,36°20?N,43°08?E, Iraq
+375,Cork,51°54?N,8°28?W, Ireland
+376,Dublin,53°21?N,6°16?W, Ireland
+377,Eilat,29°33?N,34°57?E, Israel
+378,Jerusalem,31°47?N,35°13?E, Israel
+379,Tel Aviv,32°04?N,34°47?E, Israel
+380,Catania,37°30?N,15°05?E, Italy
+381,Palermo,38°07?N,13°22?E, Italy
+382,Messina,38°11?N,15°33?E, Italy
+383,Cagliari,39°15?N,9°03?E, Italy
+384,Naples,40°51?N,14°16?E, Italy
+385,Rome,41°54?N,12°30?E, Italy
+386,Florence,43°47?N,11°15?E, Italy
+387,Bologna,44°30?N,11°21?E, Italy
+388,Turin,45°04?N,7°42?E, Italy
+389,Venice,45°26?N,12°20?E, Italy
+390,Milan,45°28?N,9°11?E, Italy
+391,Abidjan,5°19?N,4°02?W, Ivory Coast
+392,Yamoussoukro,6°49?N,5°17?W, Ivory Coast
+393,Kingston,17°59?N,76°48?W, Jamaica
+394,Naha,26°13?N,127°41?E, Japan
+395,Fukuoka,33°35?N,130°24?E, Japan
+396,Hiroshima,34°23?N,132°27?E, Japan
+397,K?be,34°41?N,135°12?E, Japan
+398,Osaka,34°42?N,135°30?E, Japan
+399,Kyoto,35°01?N,135°46?E, Japan
+400,Nagoya,35°11?N,136°54?E, Japan
+401,Yokohama,35°27?N,139°38?E, Japan
+402,Kawasaki,35°31?N,139°42?E, Japan
+403,Tokyo,35°41?N,139°42?E, Japan
+404,Sendai,38°16?N,140°52?E, Japan
+405,Sapporo,43°04?N,141°21?E, Japan
+406,Nemuro,43°20?N,145°35?E, Japan
+407,Amman,31°56?N,35°56?E, Jordan
+408,Almaty,43°17?N,76°54?E, Kazakhstan
+409,Astana,51°10?N,71°26?E, Kazakhstan
+410,Nairobi,1°17?S,36°49?E, Kenya
+411,Mombasa,4°03?S,39°40?E, Kenya
+412,South Tarawa,1°26?N,173°00?E, Kiribati
+413,Kuwait City,29°22?N,47°59?E, Kuwait
+414,Bishkek,42°52?N,74°37?E, Kyrgyzstan
+415,Vientiane,17°58?N,102°36?E, Laos
+416,Riga,56°57?N,24°06?E, Latvia
+417,Beirut,33°53?N,35°31?E, Lebanon
+418,Maseru,29°19?S,27°29?E, Lesotho
+419,Monrovia,6°19?N,10°48?W, Liberia
+420,Sabha,27°02?N,14°26?E, Libya
+421,Benghazi,32°07?N,20°04?E, Libya
+422,Tripoli,32°54?N,13°11?E, Libya
+423,Vaduz,47°08?N,9°31?E, Liechtenstein
+424,Vilnius,54°41?N,25°17?E, Lithuania
+425,Luxembourg,49°37?N,6°07?E, Luxembourg
+426,Skopje,42°00?N,21°26?E, Macedonia
+427,Antananarivo,18°56?S,47°31?E, Madagascar
+428,Lilongwe,13°59?S,33°47?E, Malawi
+429,Blantyre,15°47?S,35°00?E, Malawi
+430,Johor Bahru,1°29?N,103°44?E, Malaysia
+431,Kuching,1°34?N,110°21?E, Malaysia
+432,Malacca Town,2°12?N,102°15?E, Malaysia
+433,Kuala Lumpur,3°09?N,101°42?E, Malaysia
+434,Miri,4°24?N,114°00?E, Malaysia
+435,Ipoh,4°36?N,101°04?E, Malaysia
+436,George Town,5°25?N,100°19?E, Malaysia
+437,Kota Kinabalu,5°58?N,116°06?E, Malaysia
+438,Alor Setar,6°07?N,100°22?E, Malaysia
+439,Kota Bharu,6°08?N,102°15?E, Malaysia
+440,Malé,4°11?N,73°31?E, Maldives
+441,Bamako,12°39?N,8°00?W, Mali
+442,Koulikoro,12°52?N,7°34?W, Mali
+443,Timbuktu,16°47?N,3°01?W, Mali
+444,Birkirkara,35°54?N,14°28?E, Malta
+445,Valletta,35°54?N,14°31?E, Malta
+446,Majuro,7°04?N,171°16?E, Marshall Islands
+447,Nouakchott,18°06?N,15°57?W, Mauritania
+448,Port Louis,20°10?S,57°30?E, Mauritius
+449,Tapachula,14°54?N,92°16?W, Mexico
+450,Acapulco,16°52?N,99°53?W, Mexico
+451,Puebla,19°03?N,98°13?W, Mexico
+452,Veracruz,19°11?N,96°09?W, Mexico
+453, Mexico City,19°26?N,99°08?W, Mexico
+454,Querétaro,20°35?N,100°24?W, Mexico
+455,Guadalajara,20°40?N,103°21?W, Mexico
+456,Puerto Vallarta,20°40?N,105°16?W, Mexico
+457,Zapopan,20°43?N,103°24?W, Mexico
+458,Mérida,20°58?N,89°37?W, Mexico
+459,León,21°07?N,101°41?W, Mexico
+460,Cancún,21°10?N,86°51?W, Mexico
+461,Aguascalientes,21°53?N,102°18?W, Mexico
+462,San Luis Potosí,22°09?N,100°51?W, Mexico
+463,Tampico,22°15?N,97°52?W, Mexico
+464,Cabo San Lucas,22°53?N,109°55?W, Mexico
+465,Durango,24°01?N,104°40?W, Mexico
+466,Culiacán,24°48?N,107°23?W, Mexico
+467,Torreón,25°32?N,103°27?W, Mexico
+468,Monterrey,25°40?N,100°18?W, Mexico
+469,Chihuahua,28°38?N,106°05?W, Mexico
+470,Hermosillo,29°06?N,110°57?W, Mexico
+471,Ciudad Juárez,31°44?N,106°29?W, Mexico
+472,Ensenada,31°51?N,116°36?W, Mexico
+473,Tijuana,32°32?N,117°02?W, Mexico
+474,Mexicali,32°40?N,115°28?W, Mexico
+475,Tiraspol,46°51?N,29°38?E, Moldova
+476,Chi?in?u,47°00?N,28°55?E, Moldova
+477,Monaco,43°44?N,7°25?E, Monaco
+478,Ulaanbaatar,47°55?N,106°55?E, Mongolia
+479,Podgorica,42°26?N,19°16?E, Montenegro
+480,El Aaiún,27°09?N,13°12?W, Morocco
+481,Marrakech,31°38?N,8°01?W, Morocco
+482,Casablanca,33°32?N,7°35?W, Morocco
+483,Rabat,34°02?N,6°50?W, Morocco
+484,Maputo,25°58?S,32°35?E, Mozambique
+485,Yangon,16°48?N,96°09?E, Myanmar
+486,Naypyidaw,19°45?N,96°06?E, Myanmar
+487,Windhoek,22°34?S,17°05?E, Namibia
+488,Yaren District,0°33?S,166°55?E, Nauru
+489,Kathmandu,27°42?N,85°20?E, Nepal
+490,Willemstad,12°07?N,68°56?W, Netherlands
+491,Oranjestad,12°31?N,70°02?W, Netherlands
+492,Maastricht,50°51?N,5°41?E, Netherlands
+493,Rotterdam,51°56?N,4°29?E, Netherlands
+494,The Hague,52°05?N,4°19?E, Netherlands
+495,Utrecht,52°06?N,5°07?E, Netherlands
+496,Leiden,52°10?N,4°29?E, Netherlands
+497,Enschede,52°13?N,6°54?E, Netherlands
+498,Amsterdam,52°22?N,4°54?E, Netherlands
+499,Haarlem,52°23?N,4°38?E, Netherlands
+500,Groningen,53°13?N,6°33?E, Netherlands
+501,Alofi,19°03?S,169°55?W, New Zealand
+502,Avarua,21°12?S,159°46?W, New Zealand
+503,Auckland,36°50?S,174°44?E, New Zealand
+504,Hamilton,37°47?S,175°17?E, New Zealand
+505,Hastings,39°39?S,176°50?E, New Zealand
+506,Nelson,41°16?S,173°17?E, New Zealand
+507,Wellington,41°17?S,174°47?E, New Zealand
+508,Christchurch,43°32?S,172°37?E, New Zealand
+509,Dunedin,45°52?S,170°30?E, New Zealand
+510,Invercargill,46°25?S,168°21?E, New Zealand
+511,Managua,12°08?N,86°15?W, Nicaragua
+512,Chinandega,12°37?N,87°09?W, Nicaragua
+513,Niamey,13°31?N,2°06?E, Niger
+514,Kano,12°00?N,8°31?E, Nigeria
+515,Port Harcourt,4°45?N,7°00?E, Nigeria
+516,Benin City,6°19?N,5°36?E, Nigeria
+517,Enugu,6°27?N,7°31?E, Nigeria
+518,Lagos,6°27?N,3°24?E, Nigeria
+519,Ibadan,7°24?N,3°55?E, Nigeria
+520,Abuja,9°04?N,7°29?E, Nigeria
+521,Kaesong,37°58?N,126°33?E, North Korea
+522,Pyongyang,39°01?N,125°44?E, North Korea
+523,Wonsan,39°09?N,127°27?E, North Korea
+524,Chongjin,41°48?N,129°47?E, North Korea
+525,Kristiansand,58°10?N,8°00?E, Norway
+526,Sarpsborg,59°17?N,11°12?E, Norway
+527,Oslo,59°57?N,10°45?E, Norway
+528,Bergen,60°23?N,5°20?E, Norway
+529,Lillehammer,61°08?N,10°26?E, Norway
+530,Trondheim,63°26?N,10°24?E, Norway
+531,Stjørdal,63°29?N,11°10?E, Norway
+532,Bodø,67°18?N,14°33?E, Norway
+533,Narvik,68°25?N,17°34?E, Norway
+534,Tromsø,69°41?N,18°57?E, Norway
+535,Vadsø,70°05?N,29°44?E, Norway
+536,Hammerfest,70°40?N,23°41?E, Norway
+537,Longyearbyen,78°13?N,15°39?E, Norway
+538,Ny-Ålesund,78°55?N,11°56?E, Norway
+539,Salalah,17°01?N,54°05?E, Oman
+540,Muscat,23°37?N,58°36?E, Oman
+541,Karachi,24°52?N,67°01?E, Pakistan
+542,Hyderabad,25°23?N,68°22?E, Pakistan
+543,Multan,30°12?N,71°28?E, Pakistan
+544,Faisalabad,31°25?N,73°05?E, Pakistan
+545,Lahore,31°33?N,74°21?E, Pakistan
+546,Rawalpindi,33°36?N,73°02?E, Pakistan
+547,Islamabad,33°43?N,73°04?E, Pakistan
+548,Peshawar,34°01?N,71°35?E, Pakistan
+549,Koror City,7°22?N,134°29?E, Palau
+550,Melekeok,7°29?N,134°36?E, Palau
+551,Ngerulmud,7°30'2?N,134°36'2?E, Palau
+552,Gaza,31°31?N,34°27?E, Palestine
+553,Panama City,8°59?N,79°31?W, Panama
+554,Port Moresby,9°31?S,147°13?E, Papua New Guinea
+555,Asunción,25°17?S,57°38?W, Paraguay
+556,Ciudad del Este,25°31?S,54°37?W, Paraguay
+557, Macau,22°10?N,113°33?E, People's Republic of China
+558, Hong Kong,22°17?N,114°10?E, People's Republic of China
+559,Shenzhen,22°33?N,114°06?E, People's Republic of China
+560,Nanning,22°49?N,108°19?E, People's Republic of China
+561,Dongguan,23°02?N,113°43?E, People's Republic of China
+562,Guangzhou,23°08?N,113°16?E, People's Republic of China
+563,Kunming,25°04?N,102°41?E, People's Republic of China
+564,Shigatse,29°16?N,88°53?E, People's Republic of China
+565,Chongqing,29°34?N,106°34?E, People's Republic of China
+566,Lhasa,29°39?N,91°06?E, People's Republic of China
+567,Hangzhou,30°15?N,120°10?E, People's Republic of China
+568,Wuhan,30°35?N,114°17?E, People's Republic of China
+569,Chengdu,30°40?N,104°04?E, People's Republic of China
+570,Shanghai,31°12?N,121°30?E, People's Republic of China
+571,Nanjing,32°03?N,118°46?E, People's Republic of China
+572,Xi'an,34°16?N,108°54?E, People's Republic of China
+573,Zhengzhou,34°46?N,113°39?E, People's Republic of China
+574,Lanzhou,36°02?N,103°48?E, People's Republic of China
+575,Qingdao,36°04?N,120°23?E, People's Republic of China
+576,Handan,36°36?N,114°29?E, People's Republic of China
+577,Xining,36°38?N,101°46?E, People's Republic of China
+578,Jinan,36°40?N,116°59?E, People's Republic of China
+579,Taiyuan,37°52?N,112°34?E, People's Republic of China
+580,Shijiazhuang,38°03?N,114°30?E, People's Republic of China
+581,Dalian,38°55?N,121°38?E, People's Republic of China
+582,Tianjin,39°08?N,117°11?E, People's Republic of China
+583,Beijing,39°55?N,116°23?E, People's Republic of China
+584,Shenyang,41°48?N,123°24?E, People's Republic of China
+585,Ürümqi,43°50?N,87°36?E, People's Republic of China
+586,Changchun,43°54?N,125°12?E, People's Republic of China
+587,Harbin,45°45?N,126°38?E, People's Republic of China
+588,Lima,12°03?S,77°02?W, Peru
+589,Ayacucho,13°10?S,74°13?W, Peru
+590,Cusco,13°32?S,71°58?W, Peru
+591,Arequipa,16°24?S,71°32?W, Peru
+592,Iquitos,3°44?S,73°15?W, Peru
+593,Trujillo,8°07?S,79°02?W, Peru
+594,Cebu City,10°17?N,123°54?E, Philippines
+595,Iloilo City,10°43?N,122°34?E, Philippines
+596,Makati,14°33?N,121°02?E, Philippines
+597,Manila,14°35?N,120°58?E, Philippines
+598,Quezon City,14°38?N,121°02?E, Philippines
+599,Zamboanga City,6°54?N,122°04?E, Philippines
+600,Davao City,7°04?N,125°36?E, Philippines
+601,Tagbilaran,9°39?N,123°51?E, Philippines
+602,Kraków,50°04?N,19°56?E, Poland
+603,Warsaw,52°14?N,21°01?E, Poland
+604,Gda?sk,54°22?N,18°38?E, Poland
+605,Gdynia,54°30?N,18°33?E, Poland
+606,Funchal,32°39?N,16°55?W, Portugal
+607,Ponta Delgada,37°49?N,25°45?W, Portugal
+608,Angra do Heroísmo,38°29?N,27°13?W, Portugal
+609,Horta,38°35?N,28°43?W, Portugal
+610,Lisbon,38°43?N,9°08?W, Portugal
+611,Flores Island,39°28?N,31°14?W, Portugal
+612,Porto,41°10?N,8°37?W, Portugal
+613,Doha,25°17?N,51°32?E, Qatar
+614,Kaohsiung,22°38?N,120°16?E, Republic of China (Taiwan)
+615,Tainan,22°59?N,120°11?E, Republic of China (Taiwan)
+616,Taichung,24°09?N,120°40?E, Republic of China (Taiwan)
+617,Taipei,25°02?N,121°38?E, Republic of China (Taiwan)
+618,Brazzaville,4°16?S,15°18?E, Republic of the Congo
+619,Craiova,44°20?N,23°49?E, Romania
+620,Bucharest,44°26?N,26°06?E, Romania
+621,Cluj-Napoca,46°46?N,23°35?E, Romania
+622,Vladivostok,43°08?N,131°54?E, Russia
+623,Sochi,43°35?N,39°43?E, Russia
+624,Simferopol,44°57?N,34°06?E, Russia
+625,Krasnodar,45°02?N,38°58?E, Russia
+626,Rostov-on-Don,47°14?N,39°42?E, Russia
+627,Volgograd,48°42?N,44°31?E, Russia
+628,Saratov,51°32?N,46°01?E, Russia
+629,Voronezh,51°40?N,39°13?E, Russia
+630,Irkutsk,52°19?N,104°18?E, Russia
+631,Petropavlovsk-Kamchatsky,53°01?N,158°39?E, Russia
+632,Samara,53°12?N,50°08?E, Russia
+633,Tolyatti,53°31?N,49°25?E, Russia
+634,Kaliningrad,54°43?N,20°31?E, Russia
+635,Ufa,54°45?N,55°58?E, Russia
+636,Omsk,54°59?N,73°22?E, Russia
+637,Novosibirsk,55°01?N,82°56?E, Russia
+638,Chelyabinsk,55°09?N,61°23?E, Russia
+639,Moscow,55°45?N,37°37?E, Russia
+640,Kazan,55°47?N,49°08?E, Russia
+641,Krasnoyarsk,56°01?N,93°04?E, Russia
+642,Bratsk,56°07?N,101°36?E, Russia
+643,Nizhny Novgorod,56°20?N,44°00?E, Russia
+644,Izhevsk,56°50?N,53°11?E, Russia
+645,Yekaterinburg,56°50?N,60°35?E, Russia
+646,Yaroslavl,57°37?N,39°51?E, Russia
+647,Perm,58°00?N,56°19?E, Russia
+648,Magadan,59°34?N,150°48?E, Russia
+649,Saint Petersburg,59°57?N,30°18?E, Russia
+650,Yakutsk,62°02?N,129°44?E, Russia
+651,Arkhangelsk,64°32?N,40°32?E, Russia
+652,Anadyr,64°44?N,177°31?E, Russia
+653,Verkhoyansk,67°33?N,133°23?E, Russia
+654,Murmansk,68°58?N,33°05?E, Russia
+655,Norilsk,69°20?N,88°13?E, Russia
+656,Kigali,1°57?S,30°04?E, Rwanda
+657,Basseterre,17°18?N,62°44?W, Saint Kitts and Nevis
+658,Castries,14°01?N,60°59?W, Saint Lucia
+659,Kingstown,13°09?N,61°14?W, Saint Vincent and the Grenadines
+660,Apia,13°50?S,171°45?W, Samoa
+661,San Marino,43°56?N,12°27?E, San Marino
+662,São Tomé,0°20?N,6°41?E, São Tomé and Príncipe
+663,Mecca,21°25?N,39°49?E, Saudi Arabia
+664,Jeddah,21°33?N,39°10?E, Saudi Arabia
+665,Medina,24°28?N,39°36?E, Saudi Arabia
+666,Riyadh,24°38?N,46°43?E, Saudi Arabia
+667,Dammam,26°17?N,50°12?E, Saudi Arabia
+668,Dakar,14°42?N,17°27?W, Senegal
+669,Thiès,14°47?N,16°55?W, Senegal
+670,Pristina,42°40?N,21°10?E, Serbia
+671,Belgrade,44°49?N,20°28?E, Serbia
+672,Novi Sad,45°15?N,19°51?E, Serbia
+673,Victoria,4°37?S,55°27?E, Seychelles
+674,Freetown,8°29?N,13°14?W, Sierra Leone
+675,Singapore,1°17?N,103°50?E, Singapore
+676,Bratislava,48°09?N,17°07?E, Slovakia
+677,Ljubljana,46°03?N,14°31?E, Slovenia
+678,Honiara,9°28?S,159°49?E, Solomon Islands
+679,Kismayo,0°21?S,42°33?E, Somalia
+680,Mogadishu,2°02?N,45°21?E, Somalia
+681,Hargeisa,9°34?N,44°04?E, Somalia
+682,Polokwane,23°54?S,29°27?E, South Africa
+683,Nelspruit,25°28?S,30°59?E, South Africa
+684,Pretoria,25°45?S,28°11?E, South Africa
+685,Mafikeng,25°51?S,25°38?E, South Africa
+686,Johannesburg,26°12?S,28°03?E, South Africa
+687,Kimberley,28°45?S,24°46?E, South Africa
+688,Bloemfontein,29°07?S,26°13?E, South Africa
+689,Pietermaritzburg,29°37?S,30°23?E, South Africa
+690,Durban,29°53?S,31°03?E, South Africa
+691,Bhisho,32°51?S,27°26?E, South Africa
+692,Cape Town,33°56?S,18°25?E, South Africa
+693,Port Elizabeth,33°57?S,25°36?E, South Africa
+694,Busan,35°11?N,129°05?E, South Korea
+695,Daegu,35°52?N,128°36?E, South Korea
+696,Incheon,37°29?N,126°38?E, South Korea
+697,Seoul,37°34?N,126°59?E, South Korea
+698,Juba,4°51?N,31°36?E, South Sudan
+699,Las Palmas de Gran Canaria,28°09?N,15°25?W, Spain
+700,Santa Cruz de Tenerife,28°28?N,16°15?W, Spain
+701,Málaga,36°43?N,4°25?W, Spain
+702,Sevilla,37°23?N,5°59?W, Spain
+703,Ibiza,38°59?N,1°26?E, Spain
+704,Valencia,39°28?N,0°23?W, Spain
+705,Palma,39°34?N,2°39?E, Spain
+706,Madrid,40°23?N,3°43?W, Spain
+707,Barcelona,41°23?N,2°11?E, Spain
+708,Lleida,41°37?N,0°38?E, Spain
+709,Zaragoza,41°39?N,0°53?W, Spain
+710,Bilbao,43°15?N,2°55?W, Spain
+711,Sri Jayawardenapura-Kotte,6°55?N,79°53?E, Sri Lanka
+712,Colombo,6°56?N,79°51?E, Sri Lanka
+713,Kandy,7°18?N,80°38?E, Sri Lanka
+714,Batticaloa,7°43?N,81°42?E, Sri Lanka
+715,Khartoum,15°38?N,32°32?E, Sudan
+716,Omdurman,15°39?N,32°29?E, Sudan
+717,Paramaribo,5°52?N,55°10?W, Suriname
+718,Mbabane,26°19?S,31°08?E, Swaziland
+719,Lobamba,26°25?S,31°10?E, Swaziland
+720,Manzini,26°29?S,31°22?E, Swaziland
+721,Malmö,55°35?N,13°02?E, Sweden
+722,Gothenburg,57°42?N,11°58?E, Sweden
+723,Norrköping,58°36?N,16°12?E, Sweden
+724,Stockholm,59°20?N,18°04?E, Sweden
+725,Uppsala,59°51?N,17°39?E, Sweden
+726,Sundsvall,62°24?N,17°19?E, Sweden
+727,Östersund,63°11?N,14°40?E, Sweden
+728,Örnsköldsvik,63°17?N,18°44?E, Sweden
+729,Umeå,63°50?N,20°16?E, Sweden
+730,Skellefteå,64°45?N,20°57?E, Sweden
+731,Piteå,65°20?N,21°30?E, Sweden
+732,Luleå,65°35?N,22°09?E, Sweden
+733,Boden,65°50?N,21°43?E, Sweden
+734,Haparanda,65°50?N,24°08?E, Sweden
+735,Kiruna,67°51?N,20°13?E, Sweden
+736,Geneva,46°12?N,6°09?E, Switzerland
+737,Lausanne,46°31?N,6°38?E, Switzerland
+738,Bern,46°57?N,7°27?E, Switzerland
+739,Zürich,47°22?N,8°33?E, Switzerland
+740,Basel,47°34?N,7°36?E, Switzerland
+741,Damascus,33°31?N,36°18?E, Syria
+742,Latakia,35°31?N,35°47?E, Syria
+743,Dushanbe,38°32?N,68°47?E, Tajikistan
+744,Mwanza,2°31?S,32°54?E, Tanzania
+745,Dodoma,6°10?S,35°45?E, Tanzania
+746,Zanzibar City,6°10?S,39°12?E, Tanzania
+747,Dar es Salaam,6°48?S,39°17?E, Tanzania
+748,Pattaya,12°56?N,100°53?E, Thailand
+749,Bangkok,13°45?N,100°28?E, Thailand
+750,Phra Nakhon Si Ayutthaya,14°21?N,100°34?E, Thailand
+751,Nakhon Ratchasima,14°59?N,102°06?E, Thailand
+752,Khon Kaen,16°26?N,102°50?E, Thailand
+753,Udon Thani,17°25?N,102°45?E, Thailand
+754,Chiang Mai,18°48?N,99°00?E, Thailand
+755,Chiang Rai,19°55?N,99°50?E, Thailand
+756,Hat Yai,7°01?N,100°28?E, Thailand
+757,Phuket,7°53?N,98°24?E, Thailand
+758,Surat Thani,9°08?N,99°20?E, Thailand
+759,Dili,8°33?S,125°35?E, Timor-Leste
+760,Lomé,6°08?N,1°13?E, Togo
+761,Nuku?alofa,21°08?S,175°12?W, Tonga
+762,San Fernando,10°17?N,61°28?W, Trinidad and Tobago
+763,Chaguanas,10°30?N,61°23?W, Trinidad and Tobago
+764,Port of Spain,10°40?N,61°31?W, Trinidad and Tobago
+765,Sfax,34°44?N,10°46?E, Tunisia
+766,Tunis,36°48?N,10°11?E, Tunisia
+767,Mersin,36°48?N,34°38?E, Turkey
+768,Adana,37°00?N,35°19?E, Turkey
+769,Gaziantep,37°04?N,37°23?E, Turkey
+770,Konya,37°52?N,32°29?E, Turkey
+771,?zmir,38°26?N,27°09?E, Turkey
+772,Eskisehir,39°47?N,30°31?E, Turkey
+773,Ankara,39°56?N,32°52?E, Turkey
+774,Bursa,40°11?N,29°03?E, Turkey
+775,Istanbul,41°01?N,28°57?E, Turkey
+776,Ashgabat,37°56?N,58°22?E, Turkmenistan
+777,Funafuti,8°31?S,179°13?E, Tuvalu
+778,Nukulaelae,9°23?S,179°51?E, Tuvalu
+779,Entebbe,0°03?N,32°28?E, Uganda
+780,Kampala,0°19?N,32°35?E, Uganda
+781,Odessa,46°28?N,30°44?E, Ukraine
+782,Lviv,49°51?N,24°01?E, Ukraine
+783,Kharkiv,50°00?N,36°14?E, Ukraine
+784,Kiev,50°27?N,30°31?E, Ukraine
+785,Abu Dhabi,24°28?N,54°22?E, United Arab Emirates
+786,Dubai,25°15?N,55°18?E, United Arab Emirates
+787,Jamestown,15°55?S,5°43?W, United Kingdom
+788,The Valley,18°13?N,63°03?W, United Kingdom
+789,Road Town,18°26?N,64°37?W, United Kingdom
+790,George Town,19°18?N,81°23?W, United Kingdom
+791,Cockburn Town,21°28?N,71°08?W, United Kingdom
+792,Adamstown,25°04?S,130°06?W, United Kingdom
+793,Hamilton,32°18?N,64°47?W, United Kingdom
+794,Gibraltar,36°08?N,5°21?W, United Kingdom
+795,Plymouth,50°22?N,4°09?W, United Kingdom
+796,Exeter,50°43?N,3°32?W, United Kingdom
+797,Portsmouth,50°49?N,1°05?W, United Kingdom
+798,Brighton and Hove,50°50?N,0°09?W, United Kingdom
+799,Southampton,50°54?N,1°24?W, United Kingdom
+800,Bath,51°23?N,2°22?W, United Kingdom
+801,Bristol,51°27?N,2°35?W, United Kingdom
+802,Cardiff,51°29?N,3°11?W, United Kingdom
+803,Greenwich,51°29?N,0°00?E/W, United Kingdom
+804,London,51°30?N,0°08?W, United Kingdom
+805,Swansea,51°37?N,3°57?W, United Kingdom
+806,Stanley,51°42?S,57°52?W, United Kingdom
+807,Oxford,51°45?N,1°15?W, United Kingdom
+808,Gloucester,51°52?N,2°14?W, United Kingdom
+809,Cambridge,52°12?N,0°07?E, United Kingdom
+810,Coventry,52°24?N,1°31?W, United Kingdom
+811,Birmingham,52°29?N,1°54?W, United Kingdom
+812,Peterborough,52°35?N,0°15?W, United Kingdom
+813,Leicester,52°38?N,1°08?W, United Kingdom
+814,Norwich,52°38?N,1°18?E, United Kingdom
+815,Nottingham,52°57?N,1°08?W, United Kingdom
+816,Sheffield,53°23?N,1°28?W, United Kingdom
+817,Liverpool,53°24?N,2°59?W, United Kingdom
+818,Manchester,53°28?N,2°14?W, United Kingdom
+819,Bradford,53°48?N,1°45?W, United Kingdom
+820,Leeds,53°48?N,1°33?W, United Kingdom
+821,Douglas,54°09?N,4°29?W, United Kingdom
+822,Grytviken,54°17?S,36°30?W, United Kingdom
+823,Belfast,54°36?N,5°56?W, United Kingdom
+824,Newcastle upon Tyne,54°58?N,1°37?W, United Kingdom
+825,Glasgow,55°51?N,4°16?W, United Kingdom
+826,Edinburgh,55°57?N,3°11?W, United Kingdom
+827,Dundee,56°28?N,2°58?W, United Kingdom
+828,Aberdeen,57°09?N,2°07?W, United Kingdom
+829,Inverness,57°28?N,4°14?W, United Kingdom
+830,Hagåtña,13°29?N,144°45?E, United States
+831,Dededo,13°31?N,144°50?E, United States
+832,Pago Pago,14°17?S,170°42?W, United States
+833,Saipan,15°11?N,145°45?E, United States
+834,Charlotte Amalie,18°21?N,64°57?W, United States
+835,San Juan,18°27?N,66°04?W, United States
+836,Hilo,19°42?N,155°05?W, United States
+837,Honolulu,21°19?N,157°50?W, United States
+838,Key West,24°34?N,81°47?W, United States
+839,Miami,25°47?N,80°13?W, United States
+840,Tampa,27°57?N,82°28?W, United States
+841,Orlando,28°25?N,81°18?W, United States
+842,San Antonio,29°25?N,98°30?W, United States
+843,Houston,29°46?N,95°23?W, United States
+844,New Orleans,29°58?N,90°03?W, United States
+845,Austin,30°15?N,97°45?W, United States
+846,Jacksonville,30°20?N,81°40?W, United States
+847,Mobile,30°42?N,88°03?W, United States
+848,El Paso,31°47?N,106°25?W, United States
+849,Tucson,32°13?N,110°56?W, United States
+850,Jackson,32°18?N,90°11?W, United States
+851,San Diego,32°43?N,117°10?W, United States
+852,Dallas,32°47?N,96°48?W, United States
+853,Phoenix,33°27?N,112°04?W, United States
+854,Birmingham,33°39?N,86°49?W, United States
+855,Atlanta,33°45?N,84°23?W, United States
+856,Riverside,33°57?N,117°24?W, United States
+857,Columbia,34°00?N,81°03?W, United States
+858,Los Angeles,34°03?N,118°15?W, United States
+859,Wilmington,34°13?N,77°55?W, United States
+860,Santa Barbara,34°26?N,119°43?W, United States
+861,Little Rock,34°44?N,92°20?W, United States
+862,Albuquerque,35°07?N,106°37?W, United States
+863,Memphis,35°07?N,89°58?W, United States
+864,Charlotte,35°14?N,80°51?W, United States
+865,Oklahoma City,35°29?N,97°32?W, United States
+866,Santa Fe,35°40?N,105°58?W, United States
+867,Raleigh,35°49?N,78°39?W, United States
+868,Los Alamos,35°53?N,106°18?W, United States
+869,Knoxville,35°58?N,83°57?W, United States
+870,Tulsa,36°08?N,95°56?W, United States
+871,Nashville,36°10?N,86°47?W, United States
+872,Las Vegas,36°11?N,115°08?W, United States
+873,Virginia Beach,36°51?N,75°59?W, United States
+874,Springfield,37°12?N,93°17?W, United States
+875,Wichita,37°41?N,97°20?W, United States
+876,San Francisco,37°47?N,122°25?W, United States
+877,Louisville,38°15?N,85°46?W, United States
+878,Charleston,38°21?N,81°38?W, United States
+879,Sacramento,38°33?N,121°28?W, United States
+880,St. Louis,38°38?N,90°12?W, United States
+881,Washington,38°54?N,77°02?W, United States
+882,Cincinnati,39°06?N,84°31?W, United States
+883,Kansas City,39°06?N,94°35?W, United States
+884,Dover,39°10?N,75°32?W, United States
+885,Baltimore,39°17?N,76°37?W, United States
+886,Reno,39°32?N,119°49?W, United States
+887,Denver,39°44?N,104°59?W, United States
+888,Indianapolis,39°46?N,86°09?W, United States
+889,Forked River,39°48?N,74°06?W, United States
+890,Philadelphia,39°57?N,75°10?W, United States
+891,Columbus,39°59?N,82°59?W, United States
+892,Boulder,40°01?N,105°17?W, United States
+893,Trenton,40°13?N,74°46?W, United States
+894,Pittsburgh,40°27?N,80°00?W, United States
+895,New York City,40°40?N,73°56?W, United States
+896,Jersey City,40°43?N,74°04?W, United States
+897,Salt Lake City,40°45?N,111°53?W, United States
+898,Lincoln,40°49?N,96°41?W, United States
+899,Fort Wayne,41°05?N,85°08?W, United States
+900,Cheyenne,41°09?N,104°48?W, United States
+901,Cleveland,41°29?N,81°40?W, United States
+902,Des Moines,41°35?N,93°37?W, United States
+903,Hartford,41°46?N,72°40?W, United States
+904,Providence,41°49?N,71°25?W, United States
+905,Chicago,41°53?N,87°38?W, United States
+906,Detroit,42°20?N,83°03?W, United States
+907,Boston,42°21?N,71°04?W, United States
+908,Buffalo,42°54?N,78°51?W, United States
+909,Milwaukee,43°03?N,87°57?W, United States
+910,Rochester,43°10?N,77°37?W, United States
+911,Concord,43°12?N,71°32?W, United States
+912,Boise,43°37?N,116°12?W, United States
+913,Montpelier,44°15?N,72°34?W, United States
+914,Augusta,44°19?N,69°47?W, United States
+915,Pierre,44°22?N,100°20?W, United States
+916,Minneapolis,44°59?N,93°16?W, United States
+917,Portland,45°31?N,122°41?W, United States
+918,Helena,46°36?N,112°02?W, United States
+919,Bismarck,46°49?N,100°47?W, United States
+920,Seattle,47°37?N,122°20?W, United States
+921,Adak,51°53?N,176°39?W, United States
+922,Sitka,57°03?N,135°20?W, United States
+923,Juneau,58°18?N,134°25?W, United States
+924,Anchorage,61°13?N,149°54?W, United States
+925,Fairbanks,64°51?N,147°43?W, United States
+926,Deadhorse,70°12?N,148°31?W, United States
+927,Barrow,71°18?N,156°46?W, United States
+928,Montevideo,34°53?S,56°11?W, Uruguay
+929,Namangan,41°00?N,71°40?E, Uzbekistan
+930,Tashkent,41°16?N,69°13?E, Uzbekistan
+931,Nukus,42°28?N,59°36?E, Uzbekistan
+932,Port Vila,17°45?S,168°18?E, Vanuatu
+933,Vatican City,41°54?N,12°27?E, Vatican City
+934,Maracay,10°15?N,67°36?W, Venezuela
+935,Caracas,10°30?N,66°55?W, Venezuela
+936,Maracaibo,10°39?N,71°38?W, Venezuela
+937,Puerto Ayacucho,5°40?N,67°38?W, Venezuela
+938,Ciudad Bolívar,8°07?N,63°33?W, Venezuela
+939,Ho Chi Minh City,10°46?N,106°41?E, Vietnam
+940,Da Nang,16°04?N,108°14?E, Vietnam
+941,Hu?,16°28?N,107°35?E, Vietnam
+942,Hai Phong,20°51?N,106°41?E, Vietnam
+943,Hanoi,21°02?N,105°51?E, Vietnam
+944,Sana'a,15°21?N,44°12?E, Yemen
+945,Ndola,12°58?S,28°38?E, Zambia
+946,Lusaka,15°25?S,28°17?E, Zambia
+947,Livingstone,17°51?S,25°52?E, Zambia
+948,Harare,17°52?S,31°02?E, Zimbabwe
+949,Mutare,18°58?S,32°38?E, Zimbabwe
+950,Gweru,19°27?S,29°48?E, Zimbabwe
+951,Bulawayo,20°10?S,28°35?E, Zimbabwe
